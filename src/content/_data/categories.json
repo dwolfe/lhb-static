@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Basic Needs",
+    "subcategories": [
+      "Bedding",
+      "Clothing",
+      "Bathrooms",
+      "Day Shelters",
+      "Haircuts",
+      "Day Storage",
+      "Household Goods",
+      "Hygiene Items",
+      "ID / Birth Certificate Replacement",
+      "Laundry",
+      "Internet Access & Library Services",
+      "Mail and Messages",
+      "Propane",
+      "Phone",
+      "Showers"
+    ]
+  },
+  {
+    "name": "Care",
+    "subcategories": [
+      "Burial and Cremation",
+      "Domestic Violence / Sexual Assault",
+      "Family Care Services",
+      "Pet Care"
+    ]
+  },
+  {
+    "name": "Education",
+    "subcategories": [
+      "Adult Education"
+    ]
+  },
+  {
+    "name": "Essential Crisis Lines",
+    "subcategories": [
+      "Emergencies"
+    ]
+  },
+  {
+    "name": "Food",
+    "subcategories": [
+      "Food Boxes / Pantries",
+      "Meals"
+    ]
+  },
+  {
+    "name": "Health",
+    "subcategories": [
+      "Counseling & Mental Health",
+      "Dental",
+      "HIV / AIDS",
+      "Medical Clinics / Urgent Care / Emergency Rooms",
+      "Needle Exchange / Disposal",
+      "Prescription Assistance (non-pain reliever)",
+      "Reproductive Health / Birth Control",
+      "Vision / Hearing Aids",
+      "Addiction Recovery Services",
+      "Oregon Health Plan Sign Up"
+    ]
+  },
+  {
+    "name": "Housing",
+    "subcategories": [
+      "Housing Navigation",
+      "Overnight Parking",
+      "Overnight / Short Term Shelters",
+      "Transitional or Permanent Housing"
+    ]
+  },
+  {
+    "name": "Information",
+    "subcategories": [
+      "Crisis Lines / Hotlines",
+      "Referral and Information Services"
+    ]
+  },
+  {
+    "name": "Jewish Interests",
+    "subcategories": []
+  },
+  {
+    "name": "Latino / Latinx",
+    "subcategories": []
+  },
+  {
+    "name": "Legal",
+    "subcategories": [
+      "Know Your Rights",
+      "Legal Services"
+    ]
+  },
+  {
+    "name": "LGBTQIA",
+    "subcategories": []
+  },
+  {
+    "name": "Money",
+    "subcategories": [
+      "Financial Assistance",
+      "Rent Assistance",
+      "Utility Assistance"
+    ]
+  },
+  {
+    "name": "Post-Incarceration",
+    "subcategories": []
+  },
+  {
+    "name": "Seniors",
+    "subcategories": []
+  },
+  {
+    "name": "Transportation",
+    "subcategories": []
+  },
+  {
+    "name": "Veterans",
+    "subcategories": []
+  },
+  {
+    "name": "Work",
+    "subcategories": [
+      "Employment or Job Search"
+    ]
+  },
+  {
+    "name": "Youth",
+    "subcategories": []
+  },
+  {
+    "name": "Wildfire Support",
+    "subcategories": []
+  }
+]

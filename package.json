@@ -1,0 +1,27 @@
+{
+  "name": "LittleHelpBook-static",
+  "version": "1.0.0",
+  "description": "A directory of social services for Lane County, Oregon.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@11ty/eleventy-cache-assets": "^2.0.3",
+    "clean-css": "^4.2.3",
+    "handlebars": "^4.7.6",
+    "markdown-it": "^11.0.1"
+  }
+}

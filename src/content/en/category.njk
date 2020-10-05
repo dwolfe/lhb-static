@@ -1,0 +1,17 @@
+---
+layout: layouts/default
+pagination:
+  data: categories
+  size: 1
+  alias: category
+permalink: "/{{ locale }}/categories/{{ category.name | slug }}/"
+---
+
+<p><a class="lhb-link lhb-link--back" href="/{{ locale }}/categories/">Back to categories</a></p>
+<h1 class="lhb-heading lhb-heading--display-large">{{ category.name }}</h1>
+
+{{ categories[category.name] }}
+
+{%- for subcategory in categories[category][subcategories] -%}
+<h3>{{ subcategory }}</h3>
+{%- endfor -%}
