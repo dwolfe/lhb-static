@@ -38,13 +38,18 @@ layout: layouts/default
 
   <ul class="lhb-resources">
     {%- for category in categories -%}
-    <li class="lhb-resource">
-      <a class="lhb-link lhb-category-link" href="/{{ locale }}/categories/{{ category.name | slug }}">
-        <h3 class="lhb-heading lhb-heading--display-medium lhb-heading--category">{{ category.name }}</h3>
-        <p class="lhb-subcategory-list">{{ category.subcategories | join(',') }}</p>
-      </a>
-      <p class="lhb-subcategory-links">{%- for subcategory in this.subcategories -%}{{ subcategory | join(',') }}{%- endfor -%}</p>
-    </li>
+      <li class="lhb-resource">
+        <a class="lhb-link lhb-category-link" href="/{{ locale }}/categories/{{ category.name.en | slug }}">
+          <h3 class="lhb-heading lhb-heading--display-medium lhb-heading--category">{{ category.name[locale] }}</h3>
+          <p class="lhb-subcategory-list">
+            {%- for subcategory in category.subcategories -%}
+              {%- if not ['General',''].includes(subcategory.name[locale]) -%}
+                {{ subcategory.name[locale] }}
+              {%- endif -%}{% if not loop.last %}, {% endif %}
+            {%- endfor -%}
+          </p>
+        </a>
+      </li>
     {% endfor %}
   </ul>
 
