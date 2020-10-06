@@ -82,6 +82,11 @@ body {
   line-height: 1.15;
 }
 
+.lhb-heading--group {
+  border-bottom: solid var(--color-iron) 1px;
+  margin: 2em 0 1.75em;
+}
+
 .lhb-heading--hero {
   margin: 4rem 0.5rem;
   text-align: center;
@@ -286,6 +291,16 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.lhb-providers {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lhb-provider {
+  margin: 2em 0;
 }
 
 .lhb-resources {
