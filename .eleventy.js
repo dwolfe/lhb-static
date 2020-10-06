@@ -1,16 +1,16 @@
 const md = require('markdown-it')();
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/content/fonts');
   eleventyConfig.addPassthroughCopy('src/content/images');
 
   eleventyConfig.addWatchTarget('src/styles/style.css');
-  eleventyConfig.addPassthroughCopy({'src/styles':'./styles'});
+  eleventyConfig.addPassthroughCopy({ 'src/styles': './styles' });
 
   eleventyConfig.addWatchTarget('src/scripts/*.js');
-  eleventyConfig.addPassthroughCopy({'src/scripts':'./scripts'});
+  eleventyConfig.addPassthroughCopy({ 'src/scripts': './scripts' });
 
-  eleventyConfig.addFilter('markdown', function(value) {
+  eleventyConfig.addFilter('markdown', function (value) {
     if (typeof value === 'string') {
       return module.render(value);
     }
@@ -19,6 +19,7 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    dir: { input: 'src/content', output: 'dist' }
+    dir: { input: 'src/content', output: 'dist' },
+    pathPrefix: '/lhb-static',
   };
 };
