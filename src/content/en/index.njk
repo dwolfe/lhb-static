@@ -1,5 +1,6 @@
 ---
 layout: layouts/default
+title: Home
 ---
 
 <div class="lhb-alert lhb-alert--crisis">
@@ -26,15 +27,7 @@ layout: layouts/default
 
   <h2 class="lhb-heading lhb-heading--display-large" id="resources">Resources</h2>
 
-  <nav class="lhb-tab-menu">
-    <ul class="lhb-tabs">
-      <li><a class="lhb-tab active" href="/{{ locale }}/#resources">Categories</a></li>
-      <li><a class="lhb-tab" href="/{{ locale }}/a-z/">A-Z</a></li>
-      <li><a class="lhb-tab" href="/{{ locale }}/cities/">Cities</a></li>
-      <li><a class="lhb-tab" href="/{{ locale }}/map/">Map</a></li>
-      <li><button class="lhb-tab" ><img class="lhb-tab-icon" src="/images/icon-search.svg" alt="Search"></button></li>
-    </ul>
-  </nav>
+  {% include "_resourceTabs.njk" %}
 
   <ul class="lhb-resources">
     {%- for category in categories -%}

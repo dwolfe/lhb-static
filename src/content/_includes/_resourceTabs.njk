@@ -1,0 +1,10 @@
+  <nav class="lhb-tab-menu">
+    <ul class="lhb-tabs">
+      {% set tabs = [ "Categories", "A-Z", "Cities", "Map" ] %}
+      {% for tab in tabs %}
+        {% set tab_slug = tab | slug %}
+        <li><a class="lhb-tab{% if title === tab %} active{% endif %}" href="{{ "/" + locale + "/" + tab_slug | url }}">{{ tab }}</a></li>
+      {% endfor %}
+      <li><button class="lhb-tab" ><img class="lhb-tab-icon" src="{{ "/images/icon-search.svg" | url }}" alt="Search"></button></li>
+    </ul>
+  </nav>
