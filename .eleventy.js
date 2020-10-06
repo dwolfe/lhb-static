@@ -19,7 +19,6 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
-    dir: { input: 'src/content', output: 'dist' },
-    pathPrefix: '/lhb-static',
+    dir: { input: 'src/content', output: 'dist' }
   };
 };

@@ -4,6 +4,7 @@
   "description": "A directory of social services for Lane County, Oregon.",
   "main": ".eleventy.js",
   "scripts": {
+    "build": "env NODE_ENV=production npx eleventy --pathprefix 'lhb-static'",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
