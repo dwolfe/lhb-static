@@ -8,18 +8,28 @@
 </head>
 <body>
 
-  <header class="lhb-header">
+    <header class="lhb-header">
     <div class="lhb-branding">
       <a class="wbc-logo" href="/lhb-static/"><img src="/lhb-static/images/logo-wbc.png" alt="White Bird Clinic"></a>
       <h2 class="lhb-heading--branding">Little Help Book</h2>
     </div>
     <nav class="lhb-nav-menu">
       <ul class="lhb-nav-menu-items">
-<!-- <li><a class="lhb-nav-menu-item button" href="/es/">Español</a></li> -->
-        <li><button class="lhb-nav-menu-item lhb-button lhb-button--plain">Menu</button></li>
+        <li><a class="lhb-nav-menu-item lhb-button lhb-button--link" href="/lhb-static/en/categories/">Resources</a></li>
+        <li><a class="lhb-nav-menu-item lhb-button lhb-button--link" href="/lhb-static/en/crisis/">Crisis Lines</a></li>
+        <li><a class="lhb-nav-menu-item lhb-button lhb-button--link" href="/lhb-static/en/about/">About</a></li>
+      </ul>
+      <ul class="lhb-nav-menu-controls">
+  <!-- <li><a class="lhb-nav-menu-item lhb-button lhb-button--plain lhb-button--lang" href="/es/">Español</a></li> -->
+        <li><button class="lhb-nav-menu-item lhb-button lhb-button--plain lhb-nav-menu-control">Menu</button></li>
       </ul>
     </nav>
   </header>
+  <div class="lhb-scrim"></div>
+  
+  <script>
+    !function(){const e=document.getElementsByClassName("lhb-nav-menu-control")[0];e&&e.addEventListener("click",(function(){document.body.classList.toggle("menu-is-active")}));const n=document.getElementsByClassName("lhb-scrim")[0];n&&n.addEventListener("click",(function(){document.body.classList.remove("menu-is-active")}))}();
+  </script>
 
   <main class="lhb-content">
     
@@ -28,9 +38,10 @@
 <p>[Content goes here...]</p>
   </main>
   
-  <footer class="lhb-footer">
+    <footer class="lhb-footer">
     <p>Powered by <a class="lhb-link" href="https://whitebirdclinic.org/">White Bird Clinic</a> &middot; <a class="lhb-link" href="/terms-of-use/">Terms of Use</a></p>
   </footer>
+
 
 </body>
 </html>

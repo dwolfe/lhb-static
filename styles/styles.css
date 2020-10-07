@@ -18,6 +18,7 @@
   --color-text-alternate: var(--color-black-pearl);
   --color-bg-contrast: var(--color-black-pearl);
   --color-text-contrast: var(--color-iron);
+  --color-scrim: rgb(0,0,0,0.5);
 }
 
 :root { /* Typography */
@@ -171,7 +172,7 @@ body {
   position: fixed;
   top: 3.5em;
   width: 100%;
-  z-index: 100;
+  z-index: 25;
 }
 
 
@@ -251,6 +252,12 @@ body {
   color: var(--color-text-default);
 }
 
+.lhb-button--link {
+  background-color: transparent;
+  border-color: transparent;
+  color: var(--color-text-default);
+}
+
 .lhb-link.lhb-category-link {
   color: var(--color-text-default);
   text-decoration: none;
@@ -299,6 +306,13 @@ body {
   justify-content: space-between;
 }
 
+.lhb-nav-menu-controls {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 0.5em;
+  padding: 0;
+}
+
 .lhb-nav-menu-item {
   color: var(--color-text-default);
   display: inline-block;
@@ -314,10 +328,69 @@ body {
 }
 
 .lhb-nav-menu-items {
-  display: flex;
+  background-color: var(--color-bg-default);
+  display: none;
+  left: 0;
   list-style-type: none;
   margin: 0;
   padding: 0;
+  position: absolute;
+  top: -100%;
+  width: 100vw;
+}
+
+.lhb-nav-menu-items li {
+  border-bottom: solid 1px var(--color-iron);
+  margin: 0 auto;
+  text-align: center;
+  width: 50vw;
+}
+
+.lhb-nav-menu-items li:last-child {
+  border-bottom: 0;
+}
+
+.lhb-nav-menu-items .lhb-nav-menu-item {
+  padding: 1em 0;
+  width: 50vw;
+}
+
+.menu-is-active .lhb-nav-menu-items {
+  display: block;
+  top: 4em;
+}
+
+.lhb-nav-menu-item.lhb-nav-menu-lang {
+  display: none;
+}
+
+@media (min-width: 38em) {
+  .lhb-nav-menu-items li {
+    border-bottom: unset;
+    width: auto;
+  }
+
+  .lhb-nav-menu-items .lhb-nav-menu-item {
+    padding: 0.5em 1em;
+    width: auto;
+  }
+
+  .lhb-nav-menu-item.lhb-nav-menu-control {
+    display: none;
+  }
+
+  .lhb-nav-menu-item.lhb-nav-menu-lang {
+    display: flex;
+  }
+
+  .menu-is-active .lhb-nav-menu-items,
+  .lhb-nav-menu-items {
+    display: flex;
+    left: unset;
+    position: unset;
+    top: unset;
+    width: unset;
+  }
 }
 
 .lhb-providers {
@@ -346,6 +419,21 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.lhb-scrim {
+  background-color: var(--color-scrim);
+  display: none;
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 50;
+}
+
+.menu-is-active .lhb-scrim {
+  display: block;
 }
 
 .lhb-subcategory-links {
