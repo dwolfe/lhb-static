@@ -306,7 +306,7 @@ body {
 }
 
 .lhb-link--back {
-  background-image: url(/images/icon-chevron--left.svg);
+  background-image: url(../images/icon-chevron--left.svg);
   background-position: -4px 50%;
   background-repeat: no-repeat;
   color: var(--color-text-default);
@@ -455,7 +455,7 @@ body {
 }
 
 .lhb-resource {
-  background-image: url(/images/icon-chevron--right.svg);
+  background-image: url(../images/icon-chevron--right.svg);
   background-position: center right;
   background-repeat: no-repeat;
   margin: 2em 0;
