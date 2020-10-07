@@ -7,7 +7,7 @@ pagination:
 permalink: "/{{ locale }}/categories/{{ category.name.en | slug }}/"
 ---
 
-<p><a class="lhb-link lhb-link--back" href="/{{ locale }}/categories/">Back to categories</a></p>
+<p><a class="lhb-link lhb-link--back" href="{{ ('/' + locale + '/categories/') | url }}">Back to categories</a></p>
 <h1 class="lhb-heading lhb-heading--display-large">{{ category.name[locale] }}</h1>
 
 {% for subcategory in category.subcategories %}
