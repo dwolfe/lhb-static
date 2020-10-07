@@ -1,0 +1,17 @@
+---
+layout: layouts/modal
+title: Emergency Crisis Lines
+---
+
+  <div class="lhb-resource-nav">
+    <h2 class="lhb-heading lhb-heading--display-large lhb-heading--modal">Emergency Crisis Lines</h2>
+  </div>
+
+  <ul class="lhb-providers">
+    {%- for provider in crisis -%}
+    <li class="lhb-provider">
+      <p><strong>{{ provider.name[locale] }}</strong><br>
+      {{ provider.address }}</p>
+    </li>
+    {% endfor %}
+  </ul>

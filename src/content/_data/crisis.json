@@ -1,0 +1,623 @@
+[
+  {
+    "address": "Call",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "211info connects people with health and social service organizations, offering information and referral and assistance programs for specific services: Child Care and Parenting, Utility Assistance, Emergency Management, Food, Health, Housing & Shelter.\n\nText your zip code to 898211 (TXT211), standard messaging and data rates may apply. Text STOP to opt-out. HELP for help. One can also search the resource database on their website. To ask about resources in your area: call, text, or email (help@211info.org).",
+      "es": ""
+    },
+    "email": "help@211info.org",
+    "hours": "Monday to Friday, 8 a.m. to 6 p.m., texting available Monday to Friday 9 to 5",
+    "languages": "y",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "211 Info",
+      "es": ""
+    },
+    "phone": 211,
+    "subcategories": [
+      "Referral and Information Services",
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.211info.org/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Call",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Emergencies only. 911 is for people to reach police, fire or emergency medical assistance from any phone in any location, without having to look up specific phone numbers.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": 911,
+      "es": ""
+    },
+    "phone": 911,
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.911.gov/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Help for sufferers of dementia and their families or caregivers. Sometimes out of the office, but leave a number and they will call back.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Alzheimer’s Association Helpline",
+      "es": ""
+    },
+    "phone": "800-272-3900",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.alz.org/help-support/resources/helpline",
+    "wheelchair": ""
+  },
+  {
+    "address": "Located outside Lane County",
+    "categories": [
+      "Health",
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Pregnancy counseling to discuss options when pregnant. You can also text “Askme” to 503.841.2672 Phone, chat or text only. Live chat on website available evenings and weekends.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "Monday to Friday, 8:30 a.m. to 5 p.m.",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Boys and Girls Aid",
+      "es": ""
+    },
+    "phone": "503-222-9661",
+    "subcategories": [
+      "Reproductive Health / Birth Control",
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.boysandgirlsaid.org/options",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Health",
+      "Information",
+      "Transportation"
+    ],
+    "city": "Eugene / Springfield",
+    "description": {
+      "en": "Provides on site care for mental health or substance abuse emergencies, conflict resolution/mediation, transport to other agencies, deals with housing crises and first aid. Dispatched by police non-emergency line.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "CAHOOTS - Eugene only",
+      "es": ""
+    },
+    "phone": "541-682-5111",
+    "subcategories": [
+      "Counseling & Mental Health",
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Health",
+      "Information",
+      "Transportation"
+    ],
+    "city": "Eugene / Springfield",
+    "description": {
+      "en": "Provides on site care for mental health or substance abuse emergencies, conflict resolution/mediation, transport to other agencies, deals with housing crises and first aid. Dispatched by police non-emergency line.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "CAHOOTS - Springfield only",
+      "es": ""
+    },
+    "phone": "541-726-3714",
+    "subcategories": [
+      "Counseling & Mental Health",
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "National Child Abuse Hotline",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Child Abuse: National Child Abuse Hotline",
+      "es": ""
+    },
+    "phone": "1-800-422-4453",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Eugene Police non-emergency line",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Eugene Police non-emergency line",
+      "es": ""
+    },
+    "phone": "541 682-5111",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Lane County Police non-emergency line",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Lane County Police non-emergency line",
+      "es": ""
+    },
+    "phone": "541-682-3729",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "For individuals and family members seeking crisis intervention, treatment referral, and chemical-dependency information. Call now, all hours. Or text “RecoveryNow” to 839863 (8 a.m. to 11 p.m.).",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "y",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Lines for Life - Alcohol & Drug Helpline",
+      "es": ""
+    },
+    "phone": "1-800-923-4357",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.linesforlife.org/get-help-now/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information",
+      "Health"
+    ],
+    "city": "",
+    "description": {
+      "en": "24-hour crisis prevention helpline for families with children or runaways ages 17 and under.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Looking Glass Crisis Response Line",
+      "es": ""
+    },
+    "phone": "1-888-989-9990",
+    "subcategories": [
+      "Crisis Lines / Hotlines",
+      "Counseling & Mental Health"
+    ],
+    "url": "https://www.lookingglass.us/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Veterans",
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "24/7 resource for military service members, veterans and their families. Text “MILT” to 839863",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Military Helpline",
+      "es": ""
+    },
+    "phone": "888-457-4838",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.oregon.gov/OHA/PH/PHD/Pages/Contact-Us.aspx",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Provide counseling concerning child abuse 24/7 (interpretation available for 140 languages).",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "National Child Abuse Hotline",
+      "es": ""
+    },
+    "phone": "1-800-422-4453",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.childhelp.org",
+    "wheelchair": "y"
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information",
+      "Health"
+    ],
+    "city": "",
+    "description": {
+      "en": "Free and confidential counseling for those who are in a suicide crisis.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "National Suicide Prevention Lifeline",
+      "es": ""
+    },
+    "phone": "1-800-273-8255",
+    "subcategories": [
+      "Crisis Lines / Hotlines",
+      "Counseling & Mental Health"
+    ],
+    "url": "https://suicidepreventionlifeline.org/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Report suspected child abuse to DHS. Be ready to provide identifying information and the whereabouts of the child if known. TTY/Voice: 503-945-5811",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Oregon Abuse Hotline for Children & Adults",
+      "es": ""
+    },
+    "phone": "1-855-503-7233",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.oregon.gov/DHS/abuse/Pages/index.aspx",
+    "wheelchair": "y"
+  },
+  {
+    "address": "591 West 19th Ave, Eugene, 97401",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Crisis and support line for those who are sexually assaulted.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 44.039164,
+    "longitude": -123.103225,
+    "name": {
+      "en": "Sexual Assault Support Services (SASS)",
+      "es": ""
+    },
+    "phone": "1-800-788-4727 or 541-343-7277",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "http://sass-lane.org/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "LGBTQIA",
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "A national hotline that provides peer counseling in response to crisis situations for transgender individuals. Run by trans for trans. They also guide trans individuals to grants.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "Available every day, beginning 7:00 a.m. and through the day to past midnight, closing at 1:00 a.m.",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Trans Lifeline",
+      "es": ""
+    },
+    "phone": "877-565-8860",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.translifeline.org/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information",
+      "LGBTQIA"
+    ],
+    "city": "",
+    "description": {
+      "en": "A crisis intervention and suicide prevention phone service for LGBTQIA. Or, text “START” to 678678 (standard text messaging rates apply).",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Trevor Lifeline",
+      "es": ""
+    },
+    "phone": "1-866-488-7386",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://www.thetrevorproject.org/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Health",
+      "Information",
+      "Veterans"
+    ],
+    "city": "",
+    "description": {
+      "en": "Support line for all veterans, service members, National Guard members and their family.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Veterans Crisis Hotline",
+      "es": ""
+    },
+    "phone": "800-273-8255, press 1",
+    "subcategories": [
+      "Counseling & Mental Health",
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Veterans",
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "A national line that provides referral to services for veterans without a home.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Veterans Homeless Services Hotline",
+      "es": ""
+    },
+    "phone": "877-424-3838",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information"
+    ],
+    "city": "",
+    "description": {
+      "en": "Crisis intervention, mental health referral and transportation assistance for people with mental health needs in Eugene or Springfield without homes.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "White Bird 24/7 Crisis Line",
+      "es": ""
+    },
+    "phone": "541-687-4000, 1-800-422-7558",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information",
+      "Care"
+    ],
+    "city": "",
+    "description": {
+      "en": "24/7 crisis line for all victims and survivors of domestic violence, intimate partner violence, sexual assault and stalking in Lane County.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Womenspace 24-hr. Hotline",
+      "es": ""
+    },
+    "phone": "541-485-6513",
+    "subcategories": [
+      "Crisis Lines / Hotlines",
+      "Domestic Violence / Sexual Assault"
+    ],
+    "url": "https://www.womenspaceinc.org/",
+    "wheelchair": ""
+  },
+  {
+    "address": "Phone only",
+    "categories": [
+      "Information",
+      "Youth"
+    ],
+    "city": "",
+    "description": {
+      "en": "24/7 crisis line staffed by and for teenagers 4-10pm daily (adults available at other times). Text “teen2teen” to 839863. Chat and email also available.",
+      "es": ""
+    },
+    "email": "",
+    "hours": "All hours, every day",
+    "languages": "",
+    "latitude": 0,
+    "longitude": 0,
+    "name": {
+      "en": "Youthline",
+      "es": ""
+    },
+    "phone": "877-968-8491",
+    "subcategories": [
+      "Crisis Lines / Hotlines"
+    ],
+    "url": "https://oregonyouthline.org/",
+    "wheelchair": ""
+  }
+]

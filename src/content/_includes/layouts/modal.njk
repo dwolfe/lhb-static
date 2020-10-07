@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Little Help Book: A Social Resource Directory for Lane County, Oregon</title>
+  <link rel="stylesheet" href="{{ '/styles/styles.css' | url }}">
+</head>
+<body class="lhb-modal lhb-resource-nav-fixed">
+
+  {% include "_header--modal.njk" %}
+
+  <main class="lhb-content">
+    {{ content | safe }}
+  </main>
+
+</body>
+</html>
