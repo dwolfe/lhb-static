@@ -5,8 +5,20 @@
     </div>
     <nav class="lhb-nav-menu">
       <ul class="lhb-nav-menu-items">
-<!-- <li><a class="lhb-nav-menu-item button" href="/es/">Español</a></li> -->
-        <li><button class="lhb-nav-menu-item lhb-button lhb-button--plain">Menu</button></li>
+        <li><a class="lhb-nav-menu-item lhb-button lhb-button--link" href="{{ ('/' + locale + '/categories/') | url }}">Resources</a></li>
+        <li><a class="lhb-nav-menu-item lhb-button lhb-button--link" href="{{ ('/' + locale + '/crisis/') | url }}">Crisis Lines</a></li>
+        <li><a class="lhb-nav-menu-item lhb-button lhb-button--link" href="{{ ('/' + locale + '/about/') | url }}">About</a></li>
+      </ul>
+      <ul class="lhb-nav-menu-controls">
+  <!-- <li><a class="lhb-nav-menu-item lhb-button lhb-button--plain lhb-button--lang" href="/es/">Español</a></li> -->
+        <li><button class="lhb-nav-menu-item lhb-button lhb-button--plain lhb-nav-menu-control">Menu</button></li>
       </ul>
     </nav>
   </header>
+  <div class="lhb-scrim"></div>
+  {% set js %}
+    {% include "scripts/menu.js" %}
+  {% endset %}
+  <script>
+    {{ js | jsmin | safe }}
+  </script>

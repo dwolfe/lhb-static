@@ -1,4 +1,5 @@
 const md = require('markdown-it')();
+const { minify } = require("terser");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/content/fonts');
@@ -18,7 +19,22 @@ module.exports = function (eleventyConfig) {
     return value;
   });
 
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error("Terser error: ", err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
+
   return {
+    pathPrefix: '/lhb-static/',
     dir: { input: 'src/content', output: 'dist' }
   };
 };
