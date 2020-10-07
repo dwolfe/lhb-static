@@ -1,11 +1,14 @@
 ---
 layout: layouts/default
 title: Categories
+bodyClass: lhb-resource-nav-fixed
 ---
 
-  <h2 class="lhb-heading lhb-heading--display-large" id="resources">Resources</h2>
+  <div class="lhb-resource-nav">
+    <h2 class="lhb-heading lhb-heading--display-large" id="resources">Resources</h2>
 
-  {% include "_resourceTabs.njk" %}
+    {% include "_resourceTabs.njk" %}
+  </div>
 
   <ul class="lhb-resources">
     {%- for category in categories -%}

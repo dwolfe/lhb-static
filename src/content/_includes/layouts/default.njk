@@ -6,11 +6,11 @@
   <title>Little Help Book: A Social Resource Directory for Lane County, Oregon</title>
   <link rel="stylesheet" href="{{ '/styles/styles.css' | url }}">
 </head>
-<body>
+<body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
 
   <header class="lhb-header">
     <div class="lhb-branding">
-      <a class="wbc-logo" href="{{ "/" + locale + "/" | url }}"><img src="{{ '/images/logo-wbc.png' | url }}" alt="White Bird Clinic"></a>
+      <a class="wbc-logo" href="{{ "/" | url }}"><img src="{{ '/images/logo-wbc.png' | url }}" alt="White Bird Clinic"></a>
       <h2 class="lhb-heading--branding">Little Help Book</h2>
     </div>
     <nav class="lhb-nav-menu">
