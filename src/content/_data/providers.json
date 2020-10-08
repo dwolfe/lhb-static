@@ -11,17 +11,14 @@
     },
     "email": "info@15thNight.org",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "15th Night",
-      "es": ""
-    },
+    "name": "15th Night",
     "phone": "541-246-4046",
     "subcategories": [],
     "url": "https://www.15thnight.org",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Call",
@@ -35,20 +32,17 @@
     },
     "email": "help@211info.org",
     "hours": "Monday to Friday, 8 a.m. to 6 p.m., texting available Monday to Friday 9 to 5",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "211 Info",
-      "es": ""
-    },
+    "name": "211 Info",
     "phone": 211,
     "subcategories": [
       "Referral and Information Services",
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.211info.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Call",
@@ -62,19 +56,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": 911,
-      "es": ""
-    },
+    "name": 911,
     "phone": 911,
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.911.gov/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "245 W 13th, Eugene, 97401",
@@ -88,17 +79,14 @@
     },
     "email": "access@accessthelaw.org",
     "hours": "Monday to Friday, 8 a.m. to 5p.m. (out of office from noon to 1 p.m.)",
-    "languages": "",
+    "languages": false,
     "latitude": 44.045715,
     "longitude": -123.098662,
-    "name": {
-      "en": "Access the Law",
-      "es": ""
-    },
+    "name": "Access the Law",
     "phone": "541-686-4890",
     "subcategories": [],
     "url": "https://accessthelaw.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "",
@@ -112,17 +100,14 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": "",
     "longitude": "",
-    "name": {
-      "en": "Access the Law - Corvallis",
-      "es": ""
-    },
+    "name": "Access the Law - Corvallis",
     "phone": "",
     "subcategories": [],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "",
@@ -136,17 +121,14 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": "",
     "longitude": "",
-    "name": {
-      "en": "Access the Law - Oakridge",
-      "es": ""
-    },
+    "name": "Access the Law - Oakridge",
     "phone": "",
     "subcategories": [],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "741 Main Street Suite A, Springfield, 97477",
@@ -160,19 +142,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Alcoholics Anonymous Meetings (AA)",
-      "es": ""
-    },
+    "name": "Alcoholics Anonymous Meetings (AA)",
     "phone": "541-342-4113",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://eviaaweb.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "100 Day Island Rd, Eugene, 97401 (near bathroom)",
@@ -186,20 +165,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.056379,
     "longitude": -123.08401,
-    "name": {
-      "en": "Alton Baker Park Syringe Dropoff",
-      "es": ""
-    },
+    "name": "Alton Baker Park Syringe Dropoff",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal",
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -213,19 +189,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Alzheimer’s Association Helpline",
-      "es": ""
-    },
+    "name": "Alzheimer’s Association Helpline",
     "phone": "800-272-3900",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.alz.org/help-support/resources/helpline",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters in Portland",
@@ -239,20 +212,17 @@
     },
     "email": "",
     "hours": "Sunday to Thursday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "American Civil Liberties Union of Oregon",
-      "es": ""
-    },
+    "name": "American Civil Liberties Union of Oregon",
     "phone": "541-345-6162 or 888-527-2258 Toll-Free",
     "subcategories": [
       "Legal Services",
       "Know Your Rights"
     ],
     "url": "https://www.aclu-or.org/en/Know-Your-Rights",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "4181 E St, Springfield, 97478",
@@ -266,19 +236,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.050439,
     "longitude": -122.966065,
-    "name": {
-      "en": "Arc of Lane County",
-      "es": ""
-    },
+    "name": "Arc of Lane County",
     "phone": "541-343-5256",
     "subcategories": [
       "Financial Assistance"
     ],
     "url": "https://arclane.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Located outside Lane County",
@@ -292,19 +259,16 @@
     },
     "email": "",
     "hours": "Located outside Lane County",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Aunt Bertha",
-      "es": ""
-    },
+    "name": "Aunt Bertha",
     "phone": "Website only",
     "subcategories": [
       "Referral and Information Services"
     ],
     "url": "https://www.auntbertha.com/find-social-services/oregon",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Located outside Lane County",
@@ -318,17 +282,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Basic Rights Oregon",
-      "es": ""
-    },
+    "name": "Basic Rights Oregon",
     "phone": "503-222-6151",
     "subcategories": [],
     "url": "http://www.basicrights.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1990 Echo Hollow Road, Eugene, 97402",
@@ -342,19 +303,16 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Thursday, Friday, Saturday from 10 a.m. to 6 p.m.; and Tuesday noon to 8 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.084212,
     "longitude": -123.171818,
-    "name": {
-      "en": "Bethel Branch Library",
-      "es": ""
-    },
+    "name": "Bethel Branch Library",
     "phone": "541-682-5450",
     "subcategories": [
       "Internet Access & Library Services"
     ],
     "url": "https://www.eugene-or.gov/130/Eugene-Public-Library",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "4445 Royal Avenue, Eugene, 97402",
@@ -368,19 +326,16 @@
     },
     "email": "",
     "hours": "The second and fourth Tuesday of every month, 9:30 a.m. to noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.07054,
     "longitude": -123.173894,
-    "name": {
-      "en": "Bethsaida Lutheran Church",
-      "es": ""
-    },
+    "name": "Bethsaida Lutheran Church",
     "phone": "541-688-9085",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "85134 Hwy 101, Florence, 97439",
@@ -394,20 +349,17 @@
     },
     "email": "",
     "hours": "Wednesday from 11 a.m. to 5:30 p.m.; and Sunday, 11 a.m. to 3:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.94681,
     "longitude": -124.106641,
-    "name": {
-      "en": "Better Living Center",
-      "es": ""
-    },
+    "name": "Better Living Center",
     "phone": "541-997-2137",
     "subcategories": [
       "Clothing",
       "Household Goods"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1545 W 22nd Ave, Eugene, 97405",
@@ -421,17 +373,14 @@
     },
     "email": "",
     "hours": "Business hours",
-    "languages": "",
+    "languages": false,
     "latitude": 44.035122,
     "longitude": -123.117025,
-    "name": {
-      "en": "Boys & Girls Clubs of Emerald Valley",
-      "es": ""
-    },
+    "name": "Boys & Girls Clubs of Emerald Valley",
     "phone": "541-345-9939",
     "subcategories": [],
     "url": "https://www.bgcev.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Located outside Lane County",
@@ -446,20 +395,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Boys and Girls Aid",
-      "es": ""
-    },
+    "name": "Boys and Girls Aid",
     "phone": "503-222-9661",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.boysandgirlsaid.org/options",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "605 W 4th Ave, Eugene, 97402",
@@ -473,19 +419,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.055699,
     "longitude": -123.104367,
-    "name": {
-      "en": "Buckley Center",
-      "es": ""
-    },
+    "name": "Buckley Center",
     "phone": "541-762-4575",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://wfts.org/sobering.htm",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "605 W 4th Ave, Eugene, 97402",
@@ -499,20 +442,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.055699,
     "longitude": -123.104367,
-    "name": {
-      "en": "Buckley Center Syringe Drop Off",
-      "es": ""
-    },
+    "name": "Buckley Center Syringe Drop Off",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS",
       "Needle Exchange / Disposal"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Various locations in Eugene / Springfield",
@@ -526,19 +466,16 @@
     },
     "email": "",
     "hours": "Visit their Facebook page, events for current hours",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Burrito Brigade",
-      "es": ""
-    },
+    "name": "Burrito Brigade",
     "phone": "541-556-5051",
     "subcategories": [
       "Meals"
     ],
     "url": "https://www.facebook.com/EugeneBurritoBrigade/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "811 E Main St, Cottage Grove, 97424",
@@ -552,19 +489,16 @@
     },
     "email": "",
     "hours": "The eleventh day of every month and Thursdays from 9 a.m. to 2 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.79703,
     "longitude": -123.061936,
-    "name": {
-      "en": "Buster’s Main Street Café",
-      "es": ""
-    },
+    "name": "Buster’s Main Street Café",
     "phone": "541-942-8363",
     "subcategories": [
       "Meals"
     ],
     "url": "https://www.bustersmsc.com/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "91193 N Willamette, Coburg, 97408",
@@ -578,17 +512,14 @@
     },
     "email": "",
     "hours": "Wednesday at noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.140602,
     "longitude": -123.069844,
-    "name": {
-      "en": "Café 60 - Coburg United Methodist Church",
-      "es": ""
-    },
+    "name": "Café 60 - Coburg United Methodist Church",
     "phone": "541-682-4378",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "350 S 2nd St, Creswell, 97426",
@@ -602,17 +533,14 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, and Friday at noon",
-    "languages": "",
+    "languages": false,
     "latitude": 43.914864,
     "longitude": -123.023082,
-    "name": {
-      "en": "Café 60 - Creswell Villa",
-      "es": ""
-    },
+    "name": "Café 60 - Creswell Villa",
     "phone": "541-895-2338",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "25035 W Broadway, Veneta, 97487",
@@ -626,17 +554,14 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, and Friday at 11:30 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.05125,
     "longitude": -123.354535,
-    "name": {
-      "en": "Café 60 - Fern Ridge Service Center",
-      "es": ""
-    },
+    "name": "Café 60 - Fern Ridge Service Center",
     "phone": "541-935-7354",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1570 Kingwood, Florence, 97439",
@@ -650,17 +575,14 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, and Friday at 11:45 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.980305,
     "longitude": -124.110531,
-    "name": {
-      "en": "Café 60 - Florence Senior Center",
-      "es": ""
-    },
+    "name": "Café 60 - Florence Senior Center",
     "phone": "541-997-5673",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Northwest Neighbors, 1221 Jacobs Drive, Eugene, 97402",
@@ -674,17 +596,14 @@
     },
     "email": "",
     "hours": "Monday to Friday at 11:30 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.075179,
     "longitude": -123.152537,
-    "name": {
-      "en": "Café 60 - Meals for Seniors - Eugene, Jacobs Dr.",
-      "es": ""
-    },
+    "name": "Café 60 - Meals for Seniors - Eugene, Jacobs Dr.",
     "phone": "541-689-8011",
     "subcategories": [],
     "url": "https://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Olive Plaza, 1135 Olive St, Eugene, 97402",
@@ -698,17 +617,14 @@
     },
     "email": "",
     "hours": "Monday to Friday at 11:45 a.m",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047186,
     "longitude": -123.096302,
-    "name": {
-      "en": "Café 60 - Meals for Seniors - Eugene, Olive St.",
-      "es": ""
-    },
+    "name": "Café 60 - Meals for Seniors - Eugene, Olive St.",
     "phone": "541-342-3515",
     "subcategories": [],
     "url": "https://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "River Road Annex, 1055 River Rd, Eugene, 97404",
@@ -722,17 +638,14 @@
     },
     "email": "",
     "hours": "Tuesday and Thursday at noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.079866,
     "longitude": -123.123203,
-    "name": {
-      "en": "Café 60 - Meals for Seniors - Eugene, River Rd",
-      "es": ""
-    },
+    "name": "Café 60 - Meals for Seniors - Eugene, River Rd",
     "phone": "541-688-4052",
     "subcategories": [],
     "url": "https://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Springfield Willamalane Adult Ctr, 215 W C St, Springfield, 97477",
@@ -746,17 +659,14 @@
     },
     "email": "",
     "hours": "Monday to Friday at 11:30 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.048491,
     "longitude": -123.029618,
-    "name": {
-      "en": "Café 60 - Meals for Seniors - Springfield, W C St.",
-      "es": ""
-    },
+    "name": "Café 60 - Meals for Seniors - Springfield, W C St.",
     "phone": "541-736-4444",
     "subcategories": [],
     "url": "https://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "925 W Main St, Cottage Grove, 97424",
@@ -770,17 +680,14 @@
     },
     "email": "",
     "hours": "Tuesday, Wednesday, and Thursday at noon",
-    "languages": "",
+    "languages": false,
     "latitude": 43.797353,
     "longitude": -123.068253,
-    "name": {
-      "en": "Café 60 - Riverview Terrace - Cottage Grove",
-      "es": ""
-    },
+    "name": "Café 60 - Riverview Terrace - Cottage Grove",
     "phone": "541-942-9261",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "48187 Highway 58, Oakridge, 97463",
@@ -794,17 +701,14 @@
     },
     "email": "",
     "hours": "Tuesday and Thursday at noon",
-    "languages": "",
+    "languages": false,
     "latitude": 43.743095,
     "longitude": -122.463776,
-    "name": {
-      "en": "Café 60 - The Church of the Nazarene - Oakridge",
-      "es": ""
-    },
+    "name": "Café 60 - The Church of the Nazarene - Oakridge",
     "phone": "541-782-4318",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "245 W 5th St, Junction City, 97448",
@@ -818,17 +722,14 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, and Friday at 11:30 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.218198,
     "longitude": -123.20501,
-    "name": {
-      "en": "Café 60 - Viking Sal Senior Center - Junction City",
-      "es": ""
-    },
+    "name": "Café 60 - Viking Sal Senior Center - Junction City",
     "phone": "541-998-5367",
     "subcategories": [],
     "url": "https://laneseniormeals.org/177/Caf-60-Locations",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -844,20 +745,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "CAHOOTS - Eugene only",
-      "es": ""
-    },
+    "name": "CAHOOTS - Eugene only",
     "phone": "541-682-5111",
     "subcategories": [
       "Counseling & Mental Health",
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -873,20 +771,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "CAHOOTS - Springfield only",
-      "es": ""
-    },
+    "name": "CAHOOTS - Springfield only",
     "phone": "541-726-3714",
     "subcategories": [
       "Counseling & Mental Health",
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "100 W 10th Ave, Suite 321, Eugene, 97401",
@@ -900,19 +795,16 @@
     },
     "email": "",
     "hours": "Summer 2020 closed for renovation",
-    "languages": "",
+    "languages": false,
     "latitude": 44.048544,
     "longitude": -123.097139,
-    "name": {
-      "en": "Campbell Community Center",
-      "es": ""
-    },
+    "name": "Campbell Community Center",
     "phone": "541-682-5318",
     "subcategories": [
       "Internet Access & Library Services"
     ],
     "url": "https://www.eugene-or.gov/3237/Campbell-Community-Center",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1464 W 6th Ave, Eugene, 97402",
@@ -930,13 +822,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 3 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.05299,
     "longitude": -123.117026,
-    "name": {
-      "en": "Catholic Community Services Eugene Center",
-      "es": ""
-    },
+    "name": "Catholic Community Services Eugene Center",
     "phone": "541-345-3628 ext. 404",
     "subcategories": [
       "Family Care Services",
@@ -947,7 +836,7 @@
       "ID / Birth Certificate Replacement"
     ],
     "url": "https://www.ccslc.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1025 G St, Springfield, 97477",
@@ -964,13 +853,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 3 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.052115,
     "longitude": -123.014342,
-    "name": {
-      "en": "Catholic Community Services Springfield Center",
-      "es": ""
-    },
+    "name": "Catholic Community Services Springfield Center",
     "phone": "541-345-3628 ext. 324",
     "subcategories": [
       "Clothing",
@@ -981,7 +867,7 @@
       "Oregon Health Plan Sign Up"
     ],
     "url": "https://www.ccslc.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1025 G St, Springfield, 97477",
@@ -995,20 +881,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 3 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.052115,
     "longitude": -123.014342,
-    "name": {
-      "en": "Catholic Community Services Springfield Center",
-      "es": ""
-    },
+    "name": "Catholic Community Services Springfield Center",
     "phone": "541-747-8349",
     "subcategories": [
       "Utility Assistance",
       "Rent Assistance"
     ],
     "url": "https://www.ccslc.org/housing-help",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "757 W Broadway, Eugene, 97402",
@@ -1022,19 +905,16 @@
     },
     "email": "",
     "hours": "Tuesday 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.0502,
     "longitude": -123.106408,
-    "name": {
-      "en": "Celebrate Recovery - Awakening Church, Eugene",
-      "es": ""
-    },
+    "name": "Celebrate Recovery - Awakening Church, Eugene",
     "phone": "458-210-1737",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.celebraterecovery.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "242 28th St, Springfield, 97477",
@@ -1048,19 +928,16 @@
     },
     "email": "",
     "hours": "Thursday 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047279,
     "longitude": -122.989455,
-    "name": {
-      "en": "Celebrate Recovery - Crossfire Outreach International",
-      "es": ""
-    },
+    "name": "Celebrate Recovery - Crossfire Outreach International",
     "phone": "458-210-1737",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.celebraterecovery.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1580 River Rd, Eugene, 97404",
@@ -1074,19 +951,16 @@
     },
     "email": "",
     "hours": "Thursday 6:15 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.087454,
     "longitude": -123.12733,
-    "name": {
-      "en": "Celebrate Recovery - Dayspring Fellowship",
-      "es": ""
-    },
+    "name": "Celebrate Recovery - Dayspring Fellowship",
     "phone": "458-210-1737",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.celebraterecovery.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1310 Echo Hollow Rd, Eugene, 97402",
@@ -1100,19 +974,16 @@
     },
     "email": "",
     "hours": "Friday 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.076354,
     "longitude": -123.170638,
-    "name": {
-      "en": "Celebrate Recovery - Echo Hollow Crossfire Church",
-      "es": ""
-    },
+    "name": "Celebrate Recovery - Echo Hollow Crossfire Church",
     "phone": "458-210-1737",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.celebraterecovery.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "830 Madison St, Eugene, 97402",
@@ -1126,19 +997,16 @@
     },
     "email": "",
     "hours": "Tuesday 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.050728,
     "longitude": -123.106286,
-    "name": {
-      "en": "Celebrate Recovery - First Church of the Nazarene",
-      "es": ""
-    },
+    "name": "Celebrate Recovery - First Church of the Nazarene",
     "phone": "458-210-1737",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.celebraterecovery.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1447 North Highway 99, Cottage Grove, 97424",
@@ -1152,19 +1020,16 @@
     },
     "email": "",
     "hours": "Thursday 6:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.781721,
     "longitude": -123.072571,
-    "name": {
-      "en": "Celebrate Recovery Meeting at Calvary Chapel, Cottage Grove",
-      "es": ""
-    },
+    "name": "Celebrate Recovery Meeting at Calvary Chapel, Cottage Grove",
     "phone": "541-942-6842 or 541-554-8135",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.celebraterecovery.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1465 Coburg Rd, Eugene, 97401",
@@ -1178,19 +1043,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 9 a.m. to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.077735,
     "longitude": -123.070437,
-    "name": {
-      "en": "Center for Community Counseling",
-      "es": ""
-    },
+    "name": "Center for Community Counseling",
     "phone": "541-344-0620",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "261 E 12th Ave; 1234 High St; and 1501 Pearl St, Eugene, 97401",
@@ -1204,19 +1066,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046001,
     "longitude": -123.090683,
-    "name": {
-      "en": "Center for Family Development",
-      "es": ""
-    },
+    "name": "Center for Family Development",
     "phone": "541-342-8437",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "http://c-f-d.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "261 E 12th Ave; 1234 High St; and 1501 Pearl St, Eugene, 97401",
@@ -1230,17 +1089,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046001,
     "longitude": -123.090683,
-    "name": {
-      "en": "Center for Family Development",
-      "es": ""
-    },
+    "name": "Center for Family Development",
     "phone": "541-342-8437",
     "subcategories": [],
     "url": "http://c-f-d.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1258 High Street, Eugene, 97401",
@@ -1254,19 +1110,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046001,
     "longitude": -123.090683,
-    "name": {
-      "en": "Center for Family Development Outpatient Substance Use Recovery",
-      "es": ""
-    },
+    "name": "Center for Family Development Outpatient Substance Use Recovery",
     "phone": "541-342-8437",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "http://www.c-f-d.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "44 W 5th Ave, Eugene, 97402",
@@ -1280,17 +1133,14 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 8:30 a.m. to 5 p.m. (closed noon to 1 p.m.); Friday 8:30 a.m. to noon",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.053869,
     "longitude": -123.095901,
-    "name": {
-      "en": "Centro Latino Americano",
-      "es": ""
-    },
+    "name": "Centro Latino Americano",
     "phone": "541-687-2667",
     "subcategories": [],
     "url": "centrolatinoamericano.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -1304,19 +1154,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Child Abuse: National Child Abuse Hotline",
-      "es": ""
-    },
+    "name": "Child Abuse: National Child Abuse Hotline",
     "phone": "1-800-422-4453",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "341 E 12th Ave, Eugene, 97401",
@@ -1330,19 +1177,16 @@
     },
     "email": "",
     "hours": "Saturday noon to 1 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046823,
     "longitude": -123.089753,
-    "name": {
-      "en": "Co-Dependents Anonymous (CoDA)",
-      "es": ""
-    },
+    "name": "Co-Dependents Anonymous (CoDA)",
     "phone": "541-341-1657 or 541-505-2956",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "http://coda.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquartered outside Lane County",
@@ -1357,20 +1201,17 @@
     },
     "email": "",
     "hours": "Saturdays 1 to 2 p.m. and Tuesdays 6 to 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Community Alliance of Tenants",
-      "es": ""
-    },
+    "name": "Community Alliance of Tenants",
     "phone": "503-288-0130",
     "subcategories": [
       "Know Your Rights",
       "Referral and Information Services"
     ],
     "url": "https://www.oregoncat.org/renters-rights-hotline",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Brookside Clinic, 1680 Chambers Street, Suite 103, Eugene, 97402",
@@ -1384,20 +1225,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.041562,
     "longitude": -123.120384,
-    "name": {
-      "en": "Community Health Clinics of Lane County - Eugene, Chambers St",
-      "es": ""
-    },
+    "name": "Community Health Clinics of Lane County - Eugene, Chambers St",
     "phone": "541-682-3550",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms",
       "Reproductive Health / Birth Control"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Delta Oaks Clinic, 1022 Green Acre Road, Eugene, 97408",
@@ -1411,20 +1249,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.092244,
     "longitude": -123.098174,
-    "name": {
-      "en": "Community Health Clinics of Lane County - Eugene, Green Acre Rd",
-      "es": ""
-    },
+    "name": "Community Health Clinics of Lane County - Eugene, Green Acre Rd",
     "phone": "541-682-3550",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "LCBH Primary Care, 2411 Martin Luther King Jr Blvd, Eugene, 97401",
@@ -1438,20 +1273,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.061003,
     "longitude": -123.075281,
-    "name": {
-      "en": "Community Health Clinics of Lane County - Eugene, MLK Jr Blvd",
-      "es": ""
-    },
+    "name": "Community Health Clinics of Lane County - Eugene, MLK Jr Blvd",
     "phone": "541-682-3550",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Charnelton Health Clinic, 151 W 7th Ave, #100 Eugene, 97401",
@@ -1465,20 +1297,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.05251,
     "longitude": -123.097603,
-    "name": {
-      "en": "Community Health Clinics of Lane County - Eugene, W 7th",
-      "es": ""
-    },
+    "name": "Community Health Clinics of Lane County - Eugene, W 7th",
     "phone": "541-682-3550",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Springfield Schools Health Center, 1050 10th Street, Springfield, 97477",
@@ -1492,20 +1321,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.054325,
     "longitude": -123.015539,
-    "name": {
-      "en": "Community Health Clinics of Lane County - Springfield, 10th St",
-      "es": ""
-    },
+    "name": "Community Health Clinics of Lane County - Springfield, 10th St",
     "phone": "541-682-3550",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Riverstone Clinic, 2073 Olympic St, Springfield, 97477",
@@ -1519,20 +1345,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.059265,
     "longitude": -122.996733,
-    "name": {
-      "en": "Community Health Clinics of Lane County - Springfield, Olympic St",
-      "es": ""
-    },
+    "name": "Community Health Clinics of Lane County - Springfield, Olympic St",
     "phone": "541-682-3550",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "675 S 7th St, Cottage Grove, 97424",
@@ -1546,19 +1369,16 @@
     },
     "email": "",
     "hours": "Tuesdays and Thursdays 5 to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.791637,
     "longitude": -123.063469,
-    "name": {
-      "en": "Community Kitchen at the Trinity Lutheran Church",
-      "es": ""
-    },
+    "name": "Community Kitchen at the Trinity Lutheran Church",
     "phone": "541-942-2373",
     "subcategories": [
       "Meals"
     ],
     "url": "http://tlccg.com/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "190 E 11th, Eugene, 97401",
@@ -1572,17 +1392,14 @@
     },
     "email": "",
     "hours": "Monday to Saturday, 8 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047511,
     "longitude": -123.092106,
-    "name": {
-      "en": "Community Reintegration Service Center",
-      "es": ""
-    },
+    "name": "Community Reintegration Service Center",
     "phone": "541-465-6918, after hours call 877-927-8387",
     "subcategories": [],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1440 Birch Avenue, Cottage Grove, 97424",
@@ -1600,13 +1417,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 11 a.m. to 3:30 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.79985,
     "longitude": -123.073977,
-    "name": {
-      "en": "Community Sharing",
-      "es": ""
-    },
+    "name": "Community Sharing",
     "phone": "541-942-2176",
     "subcategories": [
       "Food Boxes / Pantries",
@@ -1619,7 +1433,7 @@
       "Propane"
     ],
     "url": "https://communitysharing.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1160 Grant St, Eugene, 97402",
@@ -1633,19 +1447,16 @@
     },
     "email": "",
     "hours": "Monday, noon to 2 p.m.; Tuesday, Thursday, Friday from 10 a.m. to 2 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.04707,
     "longitude": -123.122524,
-    "name": {
-      "en": "Community Supported Shelters",
-      "es": ""
-    },
+    "name": "Community Supported Shelters",
     "phone": "541-683- 0836",
     "subcategories": [
       "Overnight / Short Term Shelters"
     ],
     "url": "https://communitysupportedshelters.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "470 Highway 99 N, Eugene, 97402",
@@ -1659,19 +1470,16 @@
     },
     "email": "",
     "hours": "Tuesday, Wednesday, Thursday from 9 a.m. to 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.06661,
     "longitude": -123.142312,
-    "name": {
-      "en": "Community Veterinary Center",
-      "es": ""
-    },
+    "name": "Community Veterinary Center",
     "phone": "541-636-3324",
     "subcategories": [
       "Pet Care"
     ],
     "url": "http://www.communityvet.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1175 Charnelton St, Eugene, 97401",
@@ -1685,19 +1493,16 @@
     },
     "email": "",
     "hours": "Monday through Thursday 9 a.m. to 4 p.m.; Friday 9 a.m. to noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046943,
     "longitude": -123.097709,
-    "name": {
-      "en": "Cornerstone Community Housing",
-      "es": ""
-    },
+    "name": "Cornerstone Community Housing",
     "phone": "541-683-1751",
     "subcategories": [
       "Transitional or Permanent Housing"
     ],
     "url": "https://cornerstonecommunityhousing.org/housing-communities/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "364 Cobalt Ln, Creswell, OR, 97426",
@@ -1711,19 +1516,16 @@
     },
     "email": "",
     "hours": "Thursday 12:30 to 3 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.929448,
     "longitude": -123.024916,
-    "name": {
-      "en": "Creswell Food Pantry",
-      "es": ""
-    },
+    "name": "Creswell Food Pantry",
     "phone": "541-246-9117",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "communityfoodforcreswell.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "305 Coop Ct, Cottage Grove, 97424",
@@ -1737,19 +1539,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.800159,
     "longitude": -123.051375,
-    "name": {
-      "en": "Department of Human Services - Cottage Grove",
-      "es": ""
-    },
+    "name": "Department of Human Services - Cottage Grove",
     "phone": "541-942-9186",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "https://www.oregon.gov/DHS/Offices/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2101 W 11th Ave, Eugene, 97402",
@@ -1769,13 +1568,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 7 a.m. to 6 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048124,
     "longitude": -123.12718,
-    "name": {
-      "en": "Department of Human Services - Eugene, W 11th",
-      "es": ""
-    },
+    "name": "Department of Human Services - Eugene, W 11th",
     "phone": "541-686-7722",
     "subcategories": [
       "Phone",
@@ -1788,7 +1584,7 @@
       "Financial Assistance"
     ],
     "url": "https://www.oregon.gov/DHS/Offices/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1899 Willamette St, Eugene, 97401",
@@ -1807,13 +1603,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.039172,
     "longitude": -123.094579,
-    "name": {
-      "en": "Department of Human Services - Eugene, Willamette St",
-      "es": ""
-    },
+    "name": "Department of Human Services - Eugene, Willamette St",
     "phone": "541-686-7555",
     "subcategories": [
       "Family Care Services",
@@ -1824,7 +1617,7 @@
       "Employment or Job Search"
     ],
     "url": "https://www.oregon.gov/DHS/Offices/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "3180 Hwy 101 N, Florence, 97439",
@@ -1838,19 +1631,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.994195,
     "longitude": -124.102912,
-    "name": {
-      "en": "Department of Human Services - Florence",
-      "es": ""
-    },
+    "name": "Department of Human Services - Florence",
     "phone": "541-997-8251",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "https://www.oregon.gov/DHS/Offices/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "101 30th St, Springfield, 97478",
@@ -1869,13 +1659,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 7 a.m. to 6 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046669,
     "longitude": -122.984605,
-    "name": {
-      "en": "Department of Human Services - Springfield, 30th St",
-      "es": ""
-    },
+    "name": "Department of Human Services - Springfield, 30th St",
     "phone": "541-726- 3525",
     "subcategories": [
       "Family Care Services",
@@ -1886,7 +1673,7 @@
       "Employment or Job Search"
     ],
     "url": "https://www.oregon.gov/DHS/Offices/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1040 Harlow Rd, Springfield, 97477",
@@ -1903,13 +1690,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.070983,
     "longitude": -123.045701,
-    "name": {
-      "en": "Department of Human Services - Springfield, Harlow Rd",
-      "es": ""
-    },
+    "name": "Department of Human Services - Springfield, Harlow Rd",
     "phone": "541- 726-6644",
     "subcategories": [
       "Employment or Job Search",
@@ -1919,7 +1703,7 @@
       "Financial Assistance"
     ],
     "url": "https://www.oregon.gov/DHS/Offices/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "38843 Dexter Rd, Dexter, 97431",
@@ -1933,19 +1717,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.916075,
     "longitude": -122.824316,
-    "name": {
-      "en": "Dexter Clinic",
-      "es": ""
-    },
+    "name": "Dexter Clinic",
     "phone": "541-937-2134",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "peacehealth.org/dexter-clinic",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "3500 E 17th Ave, Eugene, 97403",
@@ -1959,17 +1740,14 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 44.042488,
     "longitude": -123.043717,
-    "name": {
-      "en": "Diamond Express Transportation Service",
-      "es": ""
-    },
+    "name": "Diamond Express Transportation Service",
     "phone": "541-782-1157",
     "subcategories": [],
     "url": "ltd.org/diamondex",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1200 Hilyard St, Ste 570, Eugene, 97401",
@@ -1984,19 +1762,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Thursday from 8:30 a.m. to 6 p.m.; Wednesday 9 a.m. to 6 p.m.; Friday 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046336,
     "longitude": -123.084942,
-    "name": {
-      "en": "Early Assessment and Support Alliance (EASA)",
-      "es": ""
-    },
+    "name": "Early Assessment and Support Alliance (EASA)",
     "phone": "458-205-7070",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "http://www.easacommunity.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "532 C Street, Springfield, 97477",
@@ -2010,19 +1785,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Thursday, Friday 8 to 11 a.m., Wednesday 4:30 to 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.049082,
     "longitude": -123.020723,
-    "name": {
-      "en": "Ebbert United Methodist Church",
-      "es": ""
-    },
+    "name": "Ebbert United Methodist Church",
     "phone": "541-746-3513",
     "subcategories": [
       "Clothing"
     ],
     "url": "https://ebbertumc.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "532 C Street, Springfield, 97477",
@@ -2036,19 +1808,16 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Thursday 8 a.m.; Wednesday 4:30 p.m.; Saturday 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.049082,
     "longitude": -123.020723,
-    "name": {
-      "en": "Ebbert United Methodist Church",
-      "es": ""
-    },
+    "name": "Ebbert United Methodist Church",
     "phone": "541-746-3513",
     "subcategories": [
       "Meals"
     ],
     "url": "https://ebbertumc.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Various locations in Lane County",
@@ -2062,19 +1831,16 @@
     },
     "email": "info@eganwarmingcenter.com and EganWarmingCenter@svdp.us",
     "hours": "Cold winter nights",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Egan Warming Centers",
-      "es": ""
-    },
+    "name": "Egan Warming Centers",
     "phone": "Physical location only",
     "subcategories": [
       "Overnight / Short Term Shelters"
     ],
     "url": "http://www.eganwarmingcenter.com/about-us/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2149 Centennial Plaza, Ste 4, Eugene, 97401",
@@ -2088,20 +1854,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.061206,
     "longitude": -123.08017,
-    "name": {
-      "en": "Emergence Addiction and Behavior Therapies Counseling Program",
-      "es": ""
-    },
+    "name": "Emergence Addiction and Behavior Therapies Counseling Program",
     "phone": "541-393-0777",
     "subcategories": [
       "Addiction Recovery Services",
       "Counseling & Mental Health"
     ],
     "url": "http://4emergence.com/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "374 Q Street, Springfield, 97477",
@@ -2115,17 +1878,14 @@
     },
     "email": "rdelao@4emergence.com",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.06233,
     "longitude": -123.023031,
-    "name": {
-      "en": "Emergence Addiction and Behavioral Therapies - Juntos",
-      "es": ""
-    },
+    "name": "Emergence Addiction and Behavioral Therapies - Juntos",
     "phone": "541-741-7107",
     "subcategories": [],
     "url": "http://www.4emergence.com/programs/juntos",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "33733 Seavey Loop, Eugene, 97405",
@@ -2139,19 +1899,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 7:30 a.m. to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.014693,
     "longitude": -123.023237,
-    "name": {
-      "en": "EPUD Helping Hands",
-      "es": ""
-    },
+    "name": "EPUD Helping Hands",
     "phone": "541-746-1583",
     "subcategories": [
       "Utility Assistance"
     ],
     "url": "https://www.epud.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Currently without a physical location",
@@ -2165,19 +1922,16 @@
     },
     "email": "",
     "hours": "Message through their Facebook page for current events",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Eugene Catholic Worker",
-      "es": ""
-    },
+    "name": "Eugene Catholic Worker",
     "phone": "541-654-5596",
     "subcategories": [
       "Meals"
     ],
     "url": "https://www.facebook.com/eugenecatholicworker",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "410 West 13th Ave, Eugene, 97402",
@@ -2191,19 +1945,16 @@
     },
     "email": "",
     "hours": "The second and fourth Thursday 2 to 6 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.045352,
     "longitude": -123.10088,
-    "name": {
-      "en": "Eugene Faith Center",
-      "es": ""
-    },
+    "name": "Eugene Faith Center",
     "phone": "541-686-9244",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "http://eugenefaithcenter.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1542 W 1st Ave, Eugene, 97402",
@@ -2219,13 +1970,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 7 a.m. to 1 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.058375,
     "longitude": -123.118736,
-    "name": {
-      "en": "Eugene Mission",
-      "es": ""
-    },
+    "name": "Eugene Mission",
     "phone": "541-344-3251",
     "subcategories": [
       "Clothing",
@@ -2239,7 +1987,7 @@
       "Overnight / Short Term Shelters"
     ],
     "url": "https://eugenemission.org/about/faqs/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -2253,19 +2001,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Eugene Police non-emergency line",
-      "es": ""
-    },
+    "name": "Eugene Police non-emergency line",
     "phone": "541 682-5111",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "100 W 10th Ave, Eugene, 97401",
@@ -2280,19 +2025,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 10 a.m. to 8 p.m.; and Friday to Sunday, 10 a.m. to 6 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048544,
     "longitude": -123.097139,
-    "name": {
-      "en": "Eugene Public Library",
-      "es": ""
-    },
+    "name": "Eugene Public Library",
     "phone": "541-682-5450",
     "subcategories": [
       "Internet Access & Library Services"
     ],
     "url": "eugene-or.gov/library",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "450 OR-99, Eugene, 97402",
@@ -2306,20 +2048,17 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.066094,
     "longitude": -123.141859,
-    "name": {
-      "en": "Eugene Service Station Syringe Drop-off",
-      "es": ""
-    },
+    "name": "Eugene Service Station Syringe Drop-off",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal",
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1275 Polk St, Eugene, 97402",
@@ -2333,19 +2072,16 @@
     },
     "email": "",
     "hours": "The second and fourth Saturday at 1 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.04591,
     "longitude": -123.114277,
-    "name": {
-      "en": "Eugene Seventh Day Adventist Church",
-      "es": ""
-    },
+    "name": "Eugene Seventh Day Adventist Church",
     "phone": "541-683-4169",
     "subcategories": [
       "Meals"
     ],
     "url": "https://eugeneor.adventistchurch.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "88 Charnelton St, Eugene, 97401",
@@ -2359,20 +2095,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.044198,
     "longitude": -123.097923,
-    "name": {
-      "en": "Eugene Springfield Solidarity Network (ESSN)",
-      "es": ""
-    },
+    "name": "Eugene Springfield Solidarity Network (ESSN)",
     "phone": "541-600-5754",
     "subcategories": [
       "Know Your Rights",
       "Legal Services"
     ],
     "url": "https://www.solidaritynetwork.org",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3355 Chad Dr, Eugene, 97408",
@@ -2386,17 +2119,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.088397,
     "longitude": -123.054706,
-    "name": {
-      "en": "Eugene VA Heathcare Center",
-      "es": ""
-    },
+    "name": "Eugene VA Heathcare Center",
     "phone": "541-607-0897",
     "subcategories": [],
     "url": "https://www.roseburg.va.gov/locations/eugene.asp",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "190 East 11th Ave, Eugene, 97401",
@@ -2410,17 +2140,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047511,
     "longitude": -123.092106,
-    "name": {
-      "en": "Eugene Vet Center",
-      "es": ""
-    },
+    "name": "Eugene Vet Center",
     "phone": "541-465-6918",
     "subcategories": [],
     "url": "https://www.va.gov/find-locations/facility/vc_0626V",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "720 N 14th St, Cottage Grove, 97424",
@@ -2434,19 +2161,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.802479,
     "longitude": -123.054257,
-    "name": {
-      "en": "Family Relief Nursery",
-      "es": ""
-    },
+    "name": "Family Relief Nursery",
     "phone": "541-942-4835",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "http://www.frncg.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "25035 W Broadway Ave, Veneta, 97487",
@@ -2460,17 +2184,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 2 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.051487,
     "longitude": -123.354576,
-    "name": {
-      "en": "Fern Ridge Service Center",
-      "es": ""
-    },
+    "name": "Fern Ridge Service Center",
     "phone": "541-935-4555",
     "subcategories": [],
     "url": "https://www.eugenecascadescoast.org/listing/fern-ridge-service-center/10233/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1166 Oak St, Eugene, 97401",
@@ -2484,20 +2205,17 @@
     },
     "email": "",
     "hours": "Tuesday and Thursday noon to 2 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.047037,
     "longitude": -123.093931,
-    "name": {
-      "en": "First Christian Church - Helping Hand Room",
-      "es": ""
-    },
+    "name": "First Christian Church - Helping Hand Room",
     "phone": "541-344-1425",
     "subcategories": [
       "Bedding",
       "Clothing"
     ],
     "url": "www.heartofeugene.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1166 Oak St, Eugene, 97401",
@@ -2511,19 +2229,16 @@
     },
     "email": "",
     "hours": "Sunday 7:45 to 9 a.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.047037,
     "longitude": -123.093931,
-    "name": {
-      "en": "First Christian Church - Sunday Breakfast",
-      "es": ""
-    },
+    "name": "First Christian Church - Sunday Breakfast",
     "phone": "541-344-1425",
     "subcategories": [
       "Meals"
     ],
     "url": "heartofeugene.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1995 Amazon Parkway, Eugene, 97405",
@@ -2542,13 +2257,10 @@
     },
     "email": "",
     "hours": "Every day 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.038183,
     "longitude": -123.091495,
-    "name": {
-      "en": "First Place Family Center",
-      "es": ""
-    },
+    "name": "First Place Family Center",
     "phone": "541-342-7728",
     "subcategories": [
       "Bathrooms",
@@ -2562,7 +2274,7 @@
       "Referral and Information Services"
     ],
     "url": "https://www.svdp.us/what-we-do/homeless-services/first-place-family-center/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "St Mary’s Catholic Church, 1062 Charnelton, Eugene, 97401",
@@ -2576,19 +2288,16 @@
     },
     "email": "",
     "hours": "Tuesdays noon to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047951,
     "longitude": -123.098227,
-    "name": {
-      "en": "First Way Mobile Unit - Tuesday",
-      "es": ""
-    },
+    "name": "First Way Mobile Unit - Tuesday",
     "phone": "541-687-8651",
     "subcategories": [
       "Reproductive Health / Birth Control"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Catholic Community Services, 1025 G St, Springfield, 97477",
@@ -2602,19 +2311,16 @@
     },
     "email": "",
     "hours": "Wednesdays noon to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.052049,
     "longitude": -123.014173,
-    "name": {
-      "en": "First Way Mobile Unit - Wednesday",
-      "es": ""
-    },
+    "name": "First Way Mobile Unit - Wednesday",
     "phone": "541-687-8651",
     "subcategories": [
       "Reproductive Health / Birth Control"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1162 B St, #213, Springfield, 97477",
@@ -2630,13 +2336,10 @@
     },
     "email": "",
     "hours": "Tuesday, Wednesday, Thursday 10 a.m. to 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.048186,
     "longitude": -123.011701,
-    "name": {
-      "en": "First Way of Eugene",
-      "es": ""
-    },
+    "name": "First Way of Eugene",
     "phone": "541-687-8651",
     "subcategories": [
       "Clothing",
@@ -2644,7 +2347,7 @@
       "Reproductive Health / Birth Control"
     ],
     "url": "https://www.1st-way.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "440 Maxwell Rd, Eugene, 97404",
@@ -2660,13 +2363,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 10 a.m. to 2:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.089862,
     "longitude": -123.136836,
-    "name": {
-      "en": "FISH / Trinity United Methodist Church",
-      "es": ""
-    },
+    "name": "FISH / Trinity United Methodist Church",
     "phone": "541-689-9750",
     "subcategories": [
       "Propane",
@@ -2674,7 +2374,7 @@
       "Prescription Assistance (non-pain reliever)"
     ],
     "url": "trinityumceugene.org/fish-food-pantry/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2190 Spruce St, Florence, 97439",
@@ -2688,19 +2388,16 @@
     },
     "email": "info@florencefoodshare.org",
     "hours": "Monday to Friday, 9:30 a.m. to 1 p.m.; Monday and Wednesday 4 to 6 p.m.; the first and third Saturday 10 a.m. to 1 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.985661,
     "longitude": -124.100388,
-    "name": {
-      "en": "Florence Food Share",
-      "es": ""
-    },
+    "name": "Florence Food Share",
     "phone": "541-997-9110",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "http://www.florencefoodshare.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "770 Bailey Hill Rd, Eugene, 97402",
@@ -2715,20 +2412,17 @@
     },
     "email": "info@foodforlanecounty.org",
     "hours": "Monday to Friday, 9 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.051291,
     "longitude": -123.151215,
-    "name": {
-      "en": "FOOD for Lane County",
-      "es": ""
-    },
+    "name": "FOOD for Lane County",
     "phone": "541-343-2822",
     "subcategories": [
       "Food Boxes / Pantries",
       "Referral and Information Services"
     ],
     "url": "foodforlanecounty.org",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "270 W 8th (8th & Lincoln), Eugene, 97401",
@@ -2742,19 +2436,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, noon to 2:45 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.050806,
     "longitude": -123.099016,
-    "name": {
-      "en": "FOOD For Lane County - The Dining Room",
-      "es": ""
-    },
+    "name": "FOOD For Lane County - The Dining Room",
     "phone": "541-284-1340",
     "subcategories": [
       "Meals"
     ],
     "url": "https://foodforlanecounty.org/get-help/foodboxes-meals/fflcs-dining-room/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Park Blocks across from the courthouse in Eugene",
@@ -2768,19 +2459,16 @@
     },
     "email": "",
     "hours": "Friday 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.050756,
     "longitude": -123.093142,
-    "name": {
-      "en": "Food Not Bombs",
-      "es": ""
-    },
+    "name": "Food Not Bombs",
     "phone": "Facebook messager",
     "subcategories": [
       "Meals"
     ],
     "url": "https://www.facebook.com/foodnotbombseugene/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -2794,19 +2482,16 @@
     },
     "email": "",
     "hours": "Monday through Friday, 9 a.m. to noon and 1 p.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Foreclosure Hotline",
-      "es": ""
-    },
+    "name": "Foreclosure Hotline",
     "phone": "503-227-0198 or Toll-free at 855-412-8828",
     "subcategories": [
       "Know Your Rights"
     ],
     "url": "https://oregonlawhelp.org/resource/oregon-legal-aid-offices?ref=D0GoW",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters in Los Angeles, California",
@@ -2820,19 +2505,16 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "FreedomPop",
-      "es": ""
-    },
+    "name": "FreedomPop",
     "phone": "1-800-491-5676",
     "subcategories": [
       "Phone"
     ],
     "url": "https://www.freedompop.com/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1175 G St, Springfield, 97477",
@@ -2848,13 +2530,10 @@
     },
     "email": "gstreet@ccslc.org",
     "hours": "Monday to Friday, 9 a.m. to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051989,
     "longitude": -123.011891,
-    "name": {
-      "en": "G-Street Oasis",
-      "es": ""
-    },
+    "name": "G-Street Oasis",
     "phone": "541-214-0260",
     "subcategories": [
       "Bathrooms",
@@ -2866,7 +2545,7 @@
       "Transitional or Permanent Housing"
     ],
     "url": "https://www.ccslc.org/g-street-oasis",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1175 G St, Springfield, 97477",
@@ -2880,19 +2559,16 @@
     },
     "email": "gstreet@ccslc.org",
     "hours": "Monday to Friday, 9 a.m. to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051989,
     "longitude": -123.011891,
-    "name": {
-      "en": "G-Street Oasis - Laundry",
-      "es": ""
-    },
+    "name": "G-Street Oasis - Laundry",
     "phone": "541-344-5583",
     "subcategories": [
       "Laundry"
     ],
     "url": "https://www.ccslc.org/g-street-oasis",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "7373 8th St, Junction City, 97448",
@@ -2906,19 +2582,16 @@
     },
     "email": "",
     "hours": "The fourth Thursday of every month, 10 a.m. to 1 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.220972,
     "longitude": -123.204426,
-    "name": {
-      "en": "God's Food Box",
-      "es": ""
-    },
+    "name": "God's Food Box",
     "phone": "541-688-8884",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "http://alvadorechristian.com/gods-box/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "23479 Hwy 36, Cheshire, 97419",
@@ -2932,19 +2605,16 @@
     },
     "email": "",
     "hours": "Third Thursday of every month, noon to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.14055,
     "longitude": -123.424032,
-    "name": {
-      "en": "Goldson's Grange",
-      "es": ""
-    },
+    "name": "Goldson's Grange",
     "phone": "541-343-2822",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "facebook.com/GoldsonGrange",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "102 30th St, Springfield, 97477",
@@ -2958,19 +2628,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046477,
     "longitude": -122.985781,
-    "name": {
-      "en": "Goodwill Industries Job Connections",
-      "es": ""
-    },
+    "name": "Goodwill Industries Job Connections",
     "phone": "458-205-8157",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "https://goodwilljobconnection.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "855 Seneca Rd, Building 1, Eugene, 97402",
@@ -2984,19 +2651,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.049759,
     "longitude": -123.141856,
-    "name": {
-      "en": "Goodwill Industries Job Connections",
-      "es": ""
-    },
+    "name": "Goodwill Industries Job Connections",
     "phone": "541-431-3309",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "https://goodwilljobconnection.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1010 Green Acres Rd Suite C, Eugene, 97408",
@@ -3010,19 +2674,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.093382,
     "longitude": -123.099468,
-    "name": {
-      "en": "Goodwill Industries Job Connections",
-      "es": ""
-    },
+    "name": "Goodwill Industries Job Connections",
     "phone": "541-345-1801",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "https://goodwilljobconnection.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "75 S 5th St, Cottage Grove, 97424",
@@ -3036,19 +2697,16 @@
     },
     "email": "",
     "hours": "Tuesday noon to 2:30 p.m. and 5:30 to 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.796581,
     "longitude": -123.065305,
-    "name": {
-      "en": "HIV Alliance - Cottage Grove",
-      "es": ""
-    },
+    "name": "HIV Alliance - Cottage Grove",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/#syringe-exchange",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1195A City View St, Eugene, 97402",
@@ -3062,20 +2720,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.04667,
     "longitude": -123.129508,
-    "name": {
-      "en": "HIV Alliance Community",
-      "es": ""
-    },
+    "name": "HIV Alliance Community",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS",
       "Needle Exchange / Disposal"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "2nd and Van Buren parking lot, Eugene, 97402",
@@ -3089,19 +2744,16 @@
     },
     "email": "",
     "hours": "Monday and Wednesday 6 to 7:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.057669,
     "longitude": -123.109492,
-    "name": {
-      "en": "HIV Alliance Outreach",
-      "es": ""
-    },
+    "name": "HIV Alliance Outreach",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "2nd and Van Buren parking lot, Eugene, 97402",
@@ -3115,19 +2767,16 @@
     },
     "email": "",
     "hours": "Monday and Wednesday 6 to 7:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.057669,
     "longitude": -123.109492,
-    "name": {
-      "en": "HIV Alliance Outreach",
-      "es": ""
-    },
+    "name": "HIV Alliance Outreach",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "201 S 18th St, Springfield, 97477 (South 18th and A)",
@@ -3141,19 +2790,16 @@
     },
     "email": "",
     "hours": "Thursday 6 to 7:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.043061,
     "longitude": -123.001716,
-    "name": {
-      "en": "HIV Alliance Outreach",
-      "es": ""
-    },
+    "name": "HIV Alliance Outreach",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "201 S 18th St, Springfield, 97477 (South 18th and A)",
@@ -3167,19 +2813,16 @@
     },
     "email": "",
     "hours": "Thursday 6 to 7:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.043061,
     "longitude": -123.001716,
-    "name": {
-      "en": "HIV Alliance Outreach",
-      "es": ""
-    },
+    "name": "HIV Alliance Outreach",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1195A City View St, Eugene, 97402",
@@ -3193,19 +2836,16 @@
     },
     "email": "",
     "hours": "Tuesday 1 to 3 p.m. and Friday 1 to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.04667,
     "longitude": -123.129508,
-    "name": {
-      "en": "HIV Alliance Outreach",
-      "es": ""
-    },
+    "name": "HIV Alliance Outreach",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1195A City View St, Eugene, 97402",
@@ -3219,19 +2859,16 @@
     },
     "email": "",
     "hours": "Tuesday 1 to 3 p.m.; Friday 1 to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.04667,
     "longitude": -123.129508,
-    "name": {
-      "en": "HIV Alliance Outreach",
-      "es": ""
-    },
+    "name": "HIV Alliance Outreach",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1195A City View St, Eugene, 97402",
@@ -3245,19 +2882,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.04667,
     "longitude": -123.129508,
-    "name": {
-      "en": "HIV Alliance, Inc. - Case Management",
-      "es": ""
-    },
+    "name": "HIV Alliance, Inc. - Case Management",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1195A City View St, Eugene, 97402",
@@ -3271,19 +2905,16 @@
     },
     "email": "",
     "hours": "Monday 3 to 7 p.m.; Tuesday 5 to 7 p.m.; Thursday 6 to 8 p.m.; Friday 1 to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.04667,
     "longitude": -123.129508,
-    "name": {
-      "en": "HIV Alliance, Inc. - HIV and Hepatitis C Testing",
-      "es": ""
-    },
+    "name": "HIV Alliance, Inc. - HIV and Hepatitis C Testing",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -3298,20 +2929,17 @@
     },
     "email": "",
     "hours": "Call for hours",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Homeownership Preservation Foundation",
-      "es": ""
-    },
+    "name": "Homeownership Preservation Foundation",
     "phone": "1-888-995-HOPE",
     "subcategories": [
       "Know Your Rights",
       "Referral and Information Services"
     ],
     "url": "https://homeownershippreservation.org",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "100 W 13th Avenue, Eugene, 97401",
@@ -3325,20 +2953,17 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 8 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.045241,
     "longitude": -123.09691,
-    "name": {
-      "en": "Homes For Good",
-      "es": ""
-    },
+    "name": "Homes For Good",
     "phone": "541-682-3755",
     "subcategories": [
       "Transitional or Permanent Housing",
       "Housing Navigation"
     ],
     "url": "https://homesforgood.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "834 Monroe Street, Eugene, 97402",
@@ -3355,13 +2980,10 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Friday 4:30 to 6:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.050618,
     "longitude": -123.107785,
-    "name": {
-      "en": "Hosea Youth Services",
-      "es": ""
-    },
+    "name": "Hosea Youth Services",
     "phone": "541-344-5583",
     "subcategories": [
       "Employment or Job Search",
@@ -3372,7 +2994,7 @@
       "Day Shelters"
     ],
     "url": "http://www.hoseayouth.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Headquarters outside of Lane County",
@@ -3387,20 +3009,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Housing and Urban Development",
-      "es": ""
-    },
+    "name": "Housing and Urban Development",
     "phone": "1-800-669-9777",
     "subcategories": [
       "Referral and Information Services",
       "Know Your Rights"
     ],
     "url": "https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "499 West 4th Avenue, Eugene, 97401",
@@ -3414,19 +3033,16 @@
     },
     "email": "scadmin@sheltercare.org",
     "hours": "Monday to Friday, 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.055985,
     "longitude": -123.102082,
-    "name": {
-      "en": "Housing Services for Families (ShelterCare)",
-      "es": ""
-    },
+    "name": "Housing Services for Families (ShelterCare)",
     "phone": "541-689-3785",
     "subcategories": [
       "Financial Assistance"
     ],
     "url": "https://www.sheltercare.org/homelessness-prevention-program/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "715 Lincoln St, Eugene, 97401",
@@ -3440,20 +3056,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 6 a.m. to 2:30 p.m.; Saturday 7 to 9:30 a.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.051935,
     "longitude": -123.099215,
-    "name": {
-      "en": "Integrated Health Clinics of Eugene",
-      "es": ""
-    },
+    "name": "Integrated Health Clinics of Eugene",
     "phone": "541-344-3574",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms",
       "HIV / AIDS"
     ],
     "url": "http://integratedclinics.com/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Inside Temple Beth Israel, 1175 E 29th Ave, Eugene, 97403",
@@ -3467,17 +3080,14 @@
     },
     "email": "",
     "hours": "Call for hours",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.026057,
     "longitude": -123.077801,
-    "name": {
-      "en": "Jewish Federation of Lane County - Jewish Family Services",
-      "es": ""
-    },
+    "name": "Jewish Federation of Lane County - Jewish Family Services",
     "phone": "541-484-2541",
     "subcategories": [],
     "url": "https://jewishfedlc.org/jewishfedlc.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "210 E 6th Ave, Junction City, 97448",
@@ -3494,13 +3104,10 @@
     },
     "email": "info@JunctionCityLocalAid.org",
     "hours": "Tuesday and Wednesday 9 a.m. to 1 p.m.; Thursday 3 to 7 p.m.; and the last Saturday of every month, 10 a.m. to noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.219588,
     "longitude": -123.201596,
-    "name": {
-      "en": "Junction City Local Aid",
-      "es": ""
-    },
+    "name": "Junction City Local Aid",
     "phone": "541-998-3992",
     "subcategories": [
       "Food Boxes / Pantries",
@@ -3509,7 +3116,7 @@
       "Clothing"
     ],
     "url": "http://junctioncitylocalaid.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2460 Willamette St, Eugene, 97401",
@@ -3523,19 +3130,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4:30 (closed Friday during summer)",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.032114,
     "longitude": -123.093241,
-    "name": {
-      "en": "Lane Community College Dental Clinic",
-      "es": ""
-    },
+    "name": "Lane Community College Dental Clinic",
     "phone": "541-463-5206",
     "subcategories": [
       "Dental"
     ],
     "url": "lanecc.edu/dentalclinic",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "4000 E 30th Ave, Building 1, Eugene, 97405",
@@ -3549,19 +3153,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Thursday 8:30 a.m. to 5 p.m.; Wednesday 10 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.011902,
     "longitude": -123.036758,
-    "name": {
-      "en": "Lane Community College Financial Aid",
-      "es": ""
-    },
+    "name": "Lane Community College Financial Aid",
     "phone": "541-463-3400",
     "subcategories": [
       "Adult Education"
     ],
     "url": "https://www.lanecc.edu/finaid/contact-us",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "4000 E 30th Ave, Building 11, Eugene, 97405",
@@ -3575,19 +3176,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 8:30 a.m. to 3:30 p.m.; Friday 8:30 a.m. to 2 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.011902,
     "longitude": -123.036758,
-    "name": {
-      "en": "Lane Community College GED Preparation",
-      "es": ""
-    },
+    "name": "Lane Community College GED Preparation",
     "phone": "541-463-5214",
     "subcategories": [
       "Adult Education"
     ],
     "url": "https://www.lanecc.edu/abse/ged-preparation",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "125 E 8th Ave #400, Eugene, 97401",
@@ -3601,19 +3199,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m. (out of office from noon to 1pm)",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.051583,
     "longitude": -123.092336,
-    "name": {
-      "en": "Lane County District Attorney's Office",
-      "es": ""
-    },
+    "name": "Lane County District Attorney's Office",
     "phone": "541-682-4261",
     "subcategories": [
       "Legal Services"
     ],
     "url": "https://lanecounty.org/government/county_departments/district_attorney_s_office",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "101 E Broadway Suite 200, Eugene, 97401",
@@ -3627,20 +3222,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.050144,
     "longitude": -123.093082,
-    "name": {
-      "en": "Lane County Legal Aid",
-      "es": ""
-    },
+    "name": "Lane County Legal Aid",
     "phone": "541-485-1017",
     "subcategories": [
       "Know Your Rights",
       "Legal Services"
     ],
     "url": "http://www.lclac.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "125 E 8th #400, Eugene, 97401",
@@ -3654,19 +3246,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051583,
     "longitude": -123.092336,
-    "name": {
-      "en": "Lane County Medical Examiner",
-      "es": ""
-    },
+    "name": "Lane County Medical Examiner",
     "phone": "541-682-4261 (ask the District Attorney’s office to connect you to the ME)",
     "subcategories": [
       "Burial and Cremation"
     ],
     "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/District%20Attourneys%20Office/Medical%20Examiner/ME_General_Information-Feb2014.pdf",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "151 W 7th Ave, Rm 163, Eugene, 97401",
@@ -3680,19 +3269,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 6 a.m. to 10 a.m.; Saturday and Sunday, 7 a.m. to 10 a.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.052513,
     "longitude": -123.097591,
-    "name": {
-      "en": "Lane County Methadone Treatment Program",
-      "es": ""
-    },
+    "name": "Lane County Methadone Treatment Program",
     "phone": "541-682-4464",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://lanecounty.org/government/county_departments/health_and_human_services/behavioral_health/methadone_treatment_program",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -3706,19 +3292,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Lane County Police non-emergency line",
-      "es": ""
-    },
+    "name": "Lane County Police non-emergency line",
     "phone": "541-682-3729",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "151 W 7th Ave #310, Eugene, 97401",
@@ -3732,19 +3315,16 @@
     },
     "email": "",
     "hours": "Tuesday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.052513,
     "longitude": -123.097591,
-    "name": {
-      "en": "Lane County Prenatal Care Clinic",
-      "es": ""
-    },
+    "name": "Lane County Prenatal Care Clinic",
     "phone": "541-682-3550",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "lanecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "151 W 7th Ave #310, Eugene, 97401",
@@ -3758,19 +3338,16 @@
     },
     "email": "",
     "hours": "Tuesday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.052513,
     "longitude": -123.097591,
-    "name": {
-      "en": "Lane County Prenatal Care Clinic",
-      "es": ""
-    },
+    "name": "Lane County Prenatal Care Clinic",
     "phone": "541-682-3550",
     "subcategories": [
       "Reproductive Health / Birth Control"
     ],
     "url": "anecounty.org/chc",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "151 W 7th Ave #310, Eugene, 97401",
@@ -3784,19 +3361,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.052513,
     "longitude": -123.097591,
-    "name": {
-      "en": "Lane County Public Health Services",
-      "es": ""
-    },
+    "name": "Lane County Public Health Services",
     "phone": "541-682-4041",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "lanecounty.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "151 W 7th Ave, Ste 460, Eugene, 97401",
@@ -3810,17 +3384,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m. (closed noon to 1 p.m.)",
-    "languages": "",
+    "languages": false,
     "latitude": 44.052513,
     "longitude": -123.097591,
-    "name": {
-      "en": "Lane County Veteran Service Office",
-      "es": ""
-    },
+    "name": "Lane County Veteran Service Office",
     "phone": "541-682-4191",
     "subcategories": [],
     "url": "lanecounty.org/cms/one.aspx?pageId=4133203",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "787 Bailey Hill Rd, Eugene, 97402",
@@ -3834,19 +3405,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 7:30 a.m. to 5:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051196,
     "longitude": -123.148167,
-    "name": {
-      "en": "Lane Electric Member Assistance Program",
-      "es": ""
-    },
+    "name": "Lane Electric Member Assistance Program",
     "phone": "541-484-1151",
     "subcategories": [
       "Utility Assistance"
     ],
     "url": "https://laneelectric.com/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Big Y Laundry, 2110 W 6th Ave #2698, Eugene, 97402",
@@ -3860,19 +3428,16 @@
     },
     "email": "",
     "hours": "Every other Wednesday 6 to 9 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.053469,
     "longitude": -123.126955,
-    "name": {
-      "en": "Laundry Unicorns / Eugene Mennonite Church",
-      "es": ""
-    },
+    "name": "Laundry Unicorns / Eugene Mennonite Church",
     "phone": "541-343-9548",
     "subcategories": [
       "Laundry"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2145 Centennial Plaza, Eugene, 97401",
@@ -3886,19 +3451,16 @@
     },
     "email": "info@laurel.org",
     "hours": "Intake Hours: Tuesday to Thursday 9 a.m. to 10 a.m. (Doors open at 8 a.m.)",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.061668,
     "longitude": -123.08022,
-    "name": {
-      "en": "Laurel Hill Center - Employment Services",
-      "es": ""
-    },
+    "name": "Laurel Hill Center - Employment Services",
     "phone": "541-485-6340",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "http://www.laurel.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "210 E 6th Ave, Junction City, 97448",
@@ -3912,20 +3474,17 @@
     },
     "email": "info@laurel.org",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.219588,
     "longitude": -123.201596,
-    "name": {
-      "en": "Laurel Hill Center - Psychiatric Rehabilitation Services",
-      "es": ""
-    },
+    "name": "Laurel Hill Center - Psychiatric Rehabilitation Services",
     "phone": "541-780-6361",
     "subcategories": [
       "Addiction Recovery Services",
       "Counseling & Mental Health"
     ],
     "url": "http://www.laurel.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2145 Centennial Plaza, Eugene, 97401",
@@ -3939,20 +3498,17 @@
     },
     "email": "info@laurel.org",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.061668,
     "longitude": -123.08022,
-    "name": {
-      "en": "Laurel Hill Center - Psychiatric Rehabilitation Services",
-      "es": ""
-    },
+    "name": "Laurel Hill Center - Psychiatric Rehabilitation Services",
     "phone": "541-485-6340",
     "subcategories": [
       "Addiction Recovery Services",
       "Counseling & Mental Health"
     ],
     "url": "http://www.laurel.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2700 Hilyard, Eugene, 97405",
@@ -3966,17 +3522,14 @@
     },
     "email": "",
     "hours": "Friday 4 to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.027678,
     "longitude": -123.084835,
-    "name": {
-      "en": "LGBTQ Youth Group",
-      "es": ""
-    },
+    "name": "LGBTQ Youth Group",
     "phone": "541-682-5373",
     "subcategories": [],
     "url": "https://www.eugene-or.gov/2492/Amazon-Community-Center",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -3990,19 +3543,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Lines for Life - Alcohol & Drug Helpline",
-      "es": ""
-    },
+    "name": "Lines for Life - Alcohol & Drug Helpline",
     "phone": "1-800-923-4357",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.linesforlife.org/get-help-now/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -4016,19 +3566,16 @@
     },
     "email": "INFO@MD36LIONSCLUBS.ORG",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Lions Clubs International - State of Oregon",
-      "es": ""
-    },
+    "name": "Lions Clubs International - State of Oregon",
     "phone": "541-484-0452",
     "subcategories": [
       "Vision / Hearing Aids"
     ],
     "url": "http://www.md36lionsclubs.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "941 W 7th Ave, Eugene, 97402",
@@ -4044,13 +3591,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 3:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.052456,
     "longitude": -123.109181,
-    "name": {
-      "en": "Looking Glass - New Roads Program",
-      "es": ""
-    },
+    "name": "Looking Glass - New Roads Program",
     "phone": "541-686-2688",
     "subcategories": [
       "Meals",
@@ -4060,7 +3604,7 @@
       "Clothing"
     ],
     "url": "https://www.lookingglass.us/new-roads",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "931 W 7th Ave, Eugene, 97402",
@@ -4075,19 +3619,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.052372,
     "longitude": -123.109072,
-    "name": {
-      "en": "Looking Glass - Station #7",
-      "es": ""
-    },
+    "name": "Looking Glass - Station #7",
     "phone": "541-689-3111",
     "subcategories": [
       "Overnight / Short Term Shelters"
     ],
     "url": "https://www.lookingglass.us/station-7",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "260 E 11th Ave, Eugene, 97401",
@@ -4102,19 +3643,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 8 a.m. to 6 p.m.; Friday 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.047412,
     "longitude": -123.091004,
-    "name": {
-      "en": "Looking Glass Community Services",
-      "es": ""
-    },
+    "name": "Looking Glass Community Services",
     "phone": "541-484-4428",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "https://www.lookingglass.us/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -4129,20 +3667,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Looking Glass Crisis Response Line",
-      "es": ""
-    },
+    "name": "Looking Glass Crisis Response Line",
     "phone": "1-888-989-9990",
     "subcategories": [
       "Crisis Lines / Hotlines",
       "Counseling & Mental Health"
     ],
     "url": "https://www.lookingglass.us/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -4156,19 +3691,16 @@
     },
     "email": "info@loveforlanecounty.org",
     "hours": "Monday to Thursday, 10 a.m. to 2 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Love for Lane County",
-      "es": ""
-    },
+    "name": "Love for Lane County",
     "phone": "541-653-8537",
     "subcategories": [
       "Referral and Information Services"
     ],
     "url": "https://www.loveforlanecounty.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "4 E Lakeview Dr, Lowell, 97452",
@@ -4182,19 +3714,16 @@
     },
     "email": "",
     "hours": "First and third Tuesdays 2 to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.916432,
     "longitude": -122.785027,
-    "name": {
-      "en": "Lowell Food Pantry",
-      "es": ""
-    },
+    "name": "Lowell Food Pantry",
     "phone": "541-603-5043",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "https://www.ci.lowell.or.us/business-directory-listing/food-pantry",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3500 E 17th Ave, Eugene, 97403",
@@ -4208,17 +3737,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.042488,
     "longitude": -123.043717,
-    "name": {
-      "en": "LTD Reduced Fare",
-      "es": ""
-    },
+    "name": "LTD Reduced Fare",
     "phone": "541-687-5555",
     "subcategories": [],
     "url": "https://www.ltd.org/riding-the-bus/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -4232,17 +3758,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m., Saturday and Sunday from 11am to 5pm",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "LTD RideSource",
-      "es": ""
-    },
+    "name": "LTD RideSource",
     "phone": "541-682-5566, 1-877-800-9899",
     "subcategories": [],
     "url": "https://www.ltd.org/ridesource/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "89780 N Game Farm Road, Eugene, 97408",
@@ -4256,19 +3779,16 @@
     },
     "email": "",
     "hours": "Thurday 2 to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.101451,
     "longitude": -123.059966,
-    "name": {
-      "en": "Mannahouse - Daily Bread",
-      "es": ""
-    },
+    "name": "Mannahouse - Daily Bread",
     "phone": "541-344-3380",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "https://mannahouse.church/gather/times-locations/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "10718 Hwy 126, Mapleton, 97453",
@@ -4282,19 +3802,16 @@
     },
     "email": "",
     "hours": "second Thursday and fourth Saturday from 10:00 a.m. to 2:00 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.025997,
     "longitude": -123.859268,
-    "name": {
-      "en": "Mapleton Food Share",
-      "es": ""
-    },
+    "name": "Mapleton Food Share",
     "phone": "541-268-1033",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "http://www.mapletonfoodshare.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "45061 McKenzie Hwy, Walterville, 97489",
@@ -4308,19 +3825,16 @@
     },
     "email": "",
     "hours": "By appointment",
-    "languages": "",
+    "languages": false,
     "latitude": 44.143736,
     "longitude": -122.597081,
-    "name": {
-      "en": "McKenzie Family Resource Center",
-      "es": ""
-    },
+    "name": "McKenzie Family Resource Center",
     "phone": "541-822-3313",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "https://preventionlane.org/lane-county-family-resource-centers",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1460 G St, Springfield, 97477",
@@ -4334,19 +3848,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.053303,
     "longitude": -123.00588,
-    "name": {
-      "en": "McKenzie-Willamette Medical Center",
-      "es": ""
-    },
+    "name": "McKenzie-Willamette Medical Center",
     "phone": "541-726-4400",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "http://www.mckweb.com/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Cresview Villa, 350 S 2nd St, Creswell, 97426",
@@ -4361,19 +3872,16 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Friday 11 a.m. to 1 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.919839,
     "longitude": -123.029149,
-    "name": {
-      "en": "Meals on Wheels - Creswell",
-      "es": ""
-    },
+    "name": "Meals on Wheels - Creswell",
     "phone": "541-682-3353",
     "subcategories": [
       "Meals"
     ],
     "url": "https://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1570 Kingwood St, Florence, 97439",
@@ -4388,19 +3896,16 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Friday 11 a.m. to 1 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.980305,
     "longitude": -124.110531,
-    "name": {
-      "en": "Meals on Wheels - Florence",
-      "es": ""
-    },
+    "name": "Meals on Wheels - Florence",
     "phone": "541-682-3353",
     "subcategories": [
       "Meals"
     ],
     "url": "laneseniormeals.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "48187 Hwy 58 Oakridge, 97463",
@@ -4415,19 +3920,16 @@
     },
     "email": "",
     "hours": "Tuesday and Thursday 11 a.m. to 1 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.743095,
     "longitude": -122.463776,
-    "name": {
-      "en": "Meals on Wheels - Oakridge",
-      "es": ""
-    },
+    "name": "Meals on Wheels - Oakridge",
     "phone": "541-682-3353",
     "subcategories": [
       "Meals"
     ],
     "url": "http://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "25035 W Broadway Ave, Veneta, 97487",
@@ -4442,19 +3944,16 @@
     },
     "email": "",
     "hours": "Mondays, Wednesdays, and Fridays",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051487,
     "longitude": -123.354576,
-    "name": {
-      "en": "Meals on Wheels - Veneta",
-      "es": ""
-    },
+    "name": "Meals on Wheels - Veneta",
     "phone": "541-682-3353",
     "subcategories": [
       "Meals"
     ],
     "url": "https://laneseniormeals.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -4469,19 +3968,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Military Helpline",
-      "es": ""
-    },
+    "name": "Military Helpline",
     "phone": "888-457-4838",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.oregon.gov/OHA/PH/PHD/Pages/Contact-Us.aspx",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone and website contact form",
@@ -4495,19 +3991,16 @@
     },
     "email": "support@msfocus.org",
     "hours": "Monday to Friday, 5:30 a.m. to 3:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Multiple Sclerosis Foundation Emergency Assistance Program",
-      "es": ""
-    },
+    "name": "Multiple Sclerosis Foundation Emergency Assistance Program",
     "phone": "888-673-6287",
     "subcategories": [
       "Financial Assistance"
     ],
     "url": "https://msfocus.org/Get-Help/MSF-Programs-Grants/Healthcare-Assistance-Grant",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Various locations in Lane County",
@@ -4521,19 +4014,16 @@
     },
     "email": "public.relations@lanecountyarea-na.org",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "NA (Narcotics Anonymous) Meetings",
-      "es": ""
-    },
+    "name": "NA (Narcotics Anonymous) Meetings",
     "phone": "541-729-0080",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "http://lanecountyarea-na.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Call for location",
@@ -4547,19 +4037,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday 9 a.m. to 4 p.m.; Friday 9 a.m. to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Nar-Anon Family Eugene-Springfield Group",
-      "es": ""
-    },
+    "name": "Nar-Anon Family Eugene-Springfield Group",
     "phone": "1-800-477-6291",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "www.nar-anon.org",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "2411 Martin Luther King Jr Blvd, Ste 246, Eugene, 97401",
@@ -4574,20 +4061,17 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 10 a.m. to 2 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.061003,
     "longitude": -123.07528,
-    "name": {
-      "en": "National Alliance on Mental Illness Lane County (NAMI)",
-      "es": ""
-    },
+    "name": "National Alliance on Mental Illness Lane County (NAMI)",
     "phone": "541-343-7688",
     "subcategories": [
       "Counseling & Mental Health",
       "Referral and Information Services"
     ],
     "url": "https://namilane.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -4601,19 +4085,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "National Child Abuse Hotline",
-      "es": ""
-    },
+    "name": "National Child Abuse Hotline",
     "phone": "1-800-422-4453",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.childhelp.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Headquarters outside of Lane County",
@@ -4627,19 +4108,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "National Clearinghouse for Alcohol & Drug Information (NCADI)",
-      "es": ""
-    },
+    "name": "National Clearinghouse for Alcohol & Drug Information (NCADI)",
     "phone": "877-726-4727",
     "subcategories": [
       "Referral and Information Services"
     ],
     "url": "https://store.samhsa.gov/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters outside of Lane County",
@@ -4653,19 +4131,16 @@
     },
     "email": "info@nhic.org",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "National Health Information Center",
-      "es": ""
-    },
+    "name": "National Health Information Center",
     "phone": "Website contact form only",
     "subcategories": [
       "Referral and Information Services"
     ],
     "url": "https://health.gov/myhealthfinder",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -4680,20 +4155,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "National Suicide Prevention Lifeline",
-      "es": ""
-    },
+    "name": "National Suicide Prevention Lifeline",
     "phone": "1-800-273-8255",
     "subcategories": [
       "Crisis Lines / Hotlines",
       "Counseling & Mental Health"
     ],
     "url": "https://suicidepreventionlifeline.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "597 S Front St, Creswell, 97426",
@@ -4707,19 +4179,16 @@
     },
     "email": "",
     "hours": "Wednesday 5:15 to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.912663,
     "longitude": -123.021876,
-    "name": {
-      "en": "New Hope Baptist Church",
-      "es": ""
-    },
+    "name": "New Hope Baptist Church",
     "phone": "541 895-4436",
     "subcategories": [
       "Meals"
     ],
     "url": "https://www.newhopecreswell.com/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "3500 Hilyard St, Eugene, 97405",
@@ -4733,19 +4202,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.018815,
     "longitude": -123.084523,
-    "name": {
-      "en": "Nightingale Hosted Shelters",
-      "es": ""
-    },
+    "name": "Nightingale Hosted Shelters",
     "phone": "541-632-4278",
     "subcategories": [
       "Overnight / Short Term Shelters"
     ],
     "url": "https://nightingaleshelters.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "920 W 1st Ave, Junction City, 97448",
@@ -4760,19 +4226,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.215582,
     "longitude": -123.212455,
-    "name": {
-      "en": "NorseMen Village Apartments",
-      "es": ""
-    },
+    "name": "NorseMen Village Apartments",
     "phone": "541-998-2236",
     "subcategories": [
       "Transitional or Permanent Housing"
     ],
     "url": "https://www.homesforgood.org/find-a-home/site-details/10030",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Find the closest providers on their website",
@@ -4786,19 +4249,16 @@
     },
     "email": "info@nwaafund.org",
     "hours": "They will return your call within 24 hours, Monday through Friday.",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Northwest Abortion Access Fund",
-      "es": ""
-    },
+    "name": "Northwest Abortion Access Fund",
     "phone": "866-692-2310",
     "subcategories": [
       "Reproductive Health / Birth Control"
     ],
     "url": "https://nwaafund.org/providers",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "755 E 11th Ave, Eugene, 97401",
@@ -4812,19 +4272,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 8 a.m. to 7 p.m.; Friday 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048264,
     "longitude": -123.083346,
-    "name": {
-      "en": "Northwest Christian University - Counseling Center",
-      "es": ""
-    },
+    "name": "Northwest Christian University - Counseling Center",
     "phone": "541-349-7471",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "nwcu.edu/about/counseling-center/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "47674 School St, Oakridge, 97463",
@@ -4838,19 +4295,16 @@
     },
     "email": "",
     "hours": "Tuesday and Thursday, 9 to 11 a.m., 11:30 a.m. to 1 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.744969,
     "longitude": -122.483915,
-    "name": {
-      "en": "Oakridge Food Pantry at the Willamette Activity Center",
-      "es": ""
-    },
+    "name": "Oakridge Food Pantry at the Willamette Activity Center",
     "phone": "541-782-2192",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "76499 Rose St, Oakridge, 97463",
@@ -4866,13 +4320,10 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 1 to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.748861,
     "longitude": -122.469006,
-    "name": {
-      "en": "Oakridge Westfir Family Resource Center",
-      "es": ""
-    },
+    "name": "Oakridge Westfir Family Resource Center",
     "phone": "541-782-3281",
     "subcategories": [
       "Family Care Services",
@@ -4882,7 +4333,7 @@
       "Household Goods"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1717 Centennial Blvd, Springfield, 97477 — Suites 4 and 7",
@@ -4896,19 +4347,16 @@
     },
     "email": "occmednow@gmail.com",
     "hours": "Sunday from noon to 4 p.m. — Please arrive early and get your name on the list between 11:50 a.m. and 1 p.m. to assure you get an appointment.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.055934,
     "longitude": -123.001271,
-    "name": {
-      "en": "Occupy Medical",
-      "es": ""
-    },
+    "name": "Occupy Medical",
     "phone": "Email available",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "http://occupy-medical.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "10 Shelton McMurphey Blvd (4th and Pearl), Eugene, 97401",
@@ -4922,19 +4370,16 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 44.055207,
     "longitude": -123.092229,
-    "name": {
-      "en": "ODI Clinic: Adolescent & Family Services",
-      "es": ""
-    },
+    "name": "ODI Clinic: Adolescent & Family Services",
     "phone": "541-284-7560",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://www.odiclinic.org/afs/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "944 W 5th Ave, Eugene, 97402",
@@ -4948,19 +4393,16 @@
     },
     "email": "",
     "hours": "",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.054085,
     "longitude": -123.109443,
-    "name": {
-      "en": "ODI Clinic: Centro Latino Americano",
-      "es": ""
-    },
+    "name": "ODI Clinic: Centro Latino Americano",
     "phone": "541-687-2667",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://centrolatinoamericano.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Headquarters outside Lane County",
@@ -4974,17 +4416,14 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Operation Homefront",
-      "es": ""
-    },
+    "name": "Operation Homefront",
     "phone": "800-722-6098",
     "subcategories": [],
     "url": "https://www.operationhomefront.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1577 Pearl St, Suite 100, Eugene, 97401",
@@ -4998,17 +4437,14 @@
     },
     "email": "",
     "hours": "Monday to Thursday 10 a.m. to 6 p.m.; Friday 10 a.m. to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.042486,
     "longitude": -123.091726,
-    "name": {
-      "en": "Ophelia’s Place",
-      "es": ""
-    },
+    "name": "Ophelia’s Place",
     "phone": "541-284-4333",
     "subcategories": [],
     "url": "http://opheliasplace.net/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "111 N Garfield, Eugene, 97402",
@@ -5022,19 +4458,16 @@
     },
     "email": "",
     "hours": "Every day, 10 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.06167,
     "longitude": -123.124682,
-    "name": {
-      "en": "Opportunity Village",
-      "es": ""
-    },
+    "name": "Opportunity Village",
     "phone": "541-606-4455",
     "subcategories": [
       "Transitional or Permanent Housing"
     ],
     "url": "https://www.squareonevillages.org/opportunity",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1255 Pearl St, Ste 102, Eugene, 97401",
@@ -5048,19 +4481,16 @@
     },
     "email": "options@options.org",
     "hours": "Monday to Friday, 8:30 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.045914,
     "longitude": -123.091501,
-    "name": {
-      "en": "Options Counseling Services",
-      "es": ""
-    },
+    "name": "Options Counseling Services",
     "phone": "541-687-6983",
     "subcategories": [
       "Domestic Violence / Sexual Assault"
     ],
     "url": "options.org",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -5074,19 +4504,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Abuse Hotline for Children & Adults",
-      "es": ""
-    },
+    "name": "Oregon Abuse Hotline for Children & Adults",
     "phone": "1-855-503-7233",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.oregon.gov/DHS/abuse/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2870 W 10th Pl, Eugene, 97402",
@@ -5101,19 +4528,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Thursday, Friday 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048763,
     "longitude": -123.138307,
-    "name": {
-      "en": "Oregon Department of Motor Vehicles - Eugene",
-      "es": ""
-    },
+    "name": "Oregon Department of Motor Vehicles - Eugene",
     "phone": "541-686-7855",
     "subcategories": [
       "ID / Birth Certificate Replacement"
     ],
     "url": "oregon.gov/ODOT/DMV/pages/offices/eugenedtc.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2056 Hwy 101 N, Florence, 97439",
@@ -5127,19 +4551,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.98445,
     "longitude": -124.101535,
-    "name": {
-      "en": "Oregon Department of Motor Vehicles - Florence",
-      "es": ""
-    },
+    "name": "Oregon Department of Motor Vehicles - Florence",
     "phone": "541-997-6837",
     "subcategories": [
       "ID / Birth Certificate Replacement"
     ],
     "url": "oregon.gov/ODOT/DMV/pages/offices/florence.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "204 N 30th St, Springfield, 97478",
@@ -5154,19 +4575,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Thursday, Friday 9 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.047156,
     "longitude": -122.985682,
-    "name": {
-      "en": "Oregon Department of Motor Vehicles - Springfield",
-      "es": ""
-    },
+    "name": "Oregon Department of Motor Vehicles - Springfield",
     "phone": "503-945-5000",
     "subcategories": [
       "ID / Birth Certificate Replacement"
     ],
     "url": "https://www.oregon.gov/ODOT/DMV/pages/offices/springfield.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "72A Centennial Loop, Suite 150, Eugene, 97401",
@@ -5180,17 +4598,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 5 p.m. (best to call first)",
-    "languages": "",
+    "languages": false,
     "latitude": 44.061866,
     "longitude": -123.077185,
-    "name": {
-      "en": "Oregon Family Support Network",
-      "es": ""
-    },
+    "name": "Oregon Family Support Network",
     "phone": "541-342-2876",
     "subcategories": [],
     "url": "http://www.ofsn.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Oregon Health Authority in Salem",
@@ -5204,19 +4619,16 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Health Plan",
-      "es": ""
-    },
+    "name": "Oregon Health Plan",
     "phone": "800-699-9075",
     "subcategories": [
       "Oregon Health Plan Sign Up"
     ],
     "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Apply.aspx",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Online only",
@@ -5230,19 +4642,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Helps! Social Service Eligibility Calculator",
-      "es": ""
-    },
+    "name": "Oregon Helps! Social Service Eligibility Calculator",
     "phone": "Website",
     "subcategories": [
       "Referral and Information Services"
     ],
     "url": "http://oregonhelps.211info.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Online only",
@@ -5256,19 +4665,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Law Help",
-      "es": ""
-    },
+    "name": "Oregon Law Help",
     "phone": "Website",
     "subcategories": [
       "Know Your Rights"
     ],
     "url": "https://oregonlawhelp.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Oregon Public Utility Commission in Salem",
@@ -5282,19 +4688,16 @@
     },
     "email": "puc.rspf@state.or.us",
     "hours": "9 a.m. to 4 p.m. Monday through Friday",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Lifeline",
-      "es": ""
-    },
+    "name": "Oregon Lifeline",
     "phone": "Call: 800-848-4442 or 503-373-7171 Videophone: 971-239-5845",
     "subcategories": [
       "Phone"
     ],
     "url": "https://www.oregon.gov/puc/Pages/Oregon-Lifeline.aspx",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "All of Lane County",
@@ -5308,19 +4711,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Low Income Home Energy Assistance Program",
-      "es": ""
-    },
+    "name": "Oregon Low Income Home Energy Assistance Program",
     "phone": "541-682-3378",
     "subcategories": [
       "Utility Assistance"
     ],
     "url": "https://lanecounty.org/cms/One.aspx?portalId=3585881&pageId=9773412",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters in Salem",
@@ -5334,19 +4734,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Relay",
-      "es": ""
-    },
+    "name": "Oregon Relay",
     "phone": "Dial 711",
     "subcategories": [
       "Vision / Hearing Aids"
     ],
     "url": "https://www.oregonrelay.com",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters in Tigard",
@@ -5360,19 +4757,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon State Bar Referral and Information Services",
-      "es": ""
-    },
+    "name": "Oregon State Bar Referral and Information Services",
     "phone": "503-684-3763 or 800-452-7636",
     "subcategories": [
       "Legal Services"
     ],
     "url": "https://www.osbar.org/public/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "255 Maxwell Road, Eugene, 97404",
@@ -5386,19 +4780,16 @@
     },
     "email": "orlc@riousa.com",
     "hours": "Second and fourth Saturday, 10 a.m. to noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.090989,
     "longitude": -123.131669,
-    "name": {
-      "en": "Our Redeemer Lutheran Church Food Pantry",
-      "es": ""
-    },
+    "name": "Our Redeemer Lutheran Church Food Pantry",
     "phone": "541-688-2027",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "http://www.ourredeemereugene.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "86 Centennial Loop, Eugene, 97401",
@@ -5413,20 +4804,17 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 9 a.m. to 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.060806,
     "longitude": -123.078337,
-    "name": {
-      "en": "Parenting Now",
-      "es": ""
-    },
+    "name": "Parenting Now",
     "phone": "541-484-5316",
     "subcategories": [
       "Family Care Services",
       "Referral and Information Services"
     ],
     "url": "https://parentingnow.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "400 9th St, Florence, 97439",
@@ -5440,19 +4828,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.974145,
     "longitude": -124.12077,
-    "name": {
-      "en": "Peace Harbor Hospital - Home Care Services",
-      "es": ""
-    },
+    "name": "Peace Harbor Hospital - Home Care Services",
     "phone": "541-997-3418",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1515 Village Dr, Cottage Grove, 97424",
@@ -5466,19 +4851,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.803674,
     "longitude": -123.041862,
-    "name": {
-      "en": "Peacehealth Medical Group - Cottage Grove Community Hospital and Clinics",
-      "es": ""
-    },
+    "name": "Peacehealth Medical Group - Cottage Grove Community Hospital and Clinics",
     "phone": "541-767-5200",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "860 Beltline Rd, Springfield, 97477",
@@ -5492,19 +4874,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.08521,
     "longitude": -123.042444,
-    "name": {
-      "en": "PeaceHealth Medical Group - Urgent Care Center / Springfield",
-      "es": ""
-    },
+    "name": "PeaceHealth Medical Group - Urgent Care Center / Springfield",
     "phone": "541-222-7650",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1400 Valley River Dr, Ste 110, Eugene, 97401",
@@ -5518,19 +4897,16 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.071382,
     "longitude": -123.110774,
-    "name": {
-      "en": "PeaceHealth Medical Group - Urgent Care Center / Valley River",
-      "es": ""
-    },
+    "name": "PeaceHealth Medical Group - Urgent Care Center / Valley River",
     "phone": "541-222-7375",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3321 West 11th Ave, Eugene, 97402",
@@ -5544,19 +4920,16 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.048259,
     "longitude": -123.144019,
-    "name": {
-      "en": "PeaceHealth Medical Group - Urgent Care Center / West 11th",
-      "es": ""
-    },
+    "name": "PeaceHealth Medical Group - Urgent Care Center / West 11th",
     "phone": "541-222-7200",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1200 Hilyard Ave, Eugene, 97401",
@@ -5570,19 +4943,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046336,
     "longitude": -123.084942,
-    "name": {
-      "en": "PeaceHealth Sacred Heart Medical Center University District",
-      "es": ""
-    },
+    "name": "PeaceHealth Sacred Heart Medical Center University District",
     "phone": "541-686-7300",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3333 Riverbend Dr, Springfield, 97477",
@@ -5596,19 +4966,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.081296,
     "longitude": -123.028748,
-    "name": {
-      "en": "PeaceHealth Sacred Heart Riverbend",
-      "es": ""
-    },
+    "name": "PeaceHealth Sacred Heart Riverbend",
     "phone": "541- 222-7300.",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1255 Hilyard St, Eugene, 97401",
@@ -5622,19 +4989,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046469,
     "longitude": -123.083335,
-    "name": {
-      "en": "PeaceHealth Sacred Heart Univ. District",
-      "es": ""
-    },
+    "name": "PeaceHealth Sacred Heart Univ. District",
     "phone": "541-686-7300",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.peacehealth.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -5648,19 +5012,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 10 a.m. to 2 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Peer-To-Peer Loans Lane County",
-      "es": ""
-    },
+    "name": "Peer-To-Peer Loans Lane County",
     "phone": "541-343-9548",
     "subcategories": [
       "Rent Assistance"
     ],
     "url": "https://www.eugenemennonite.com/about-2",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters outside Lane County",
@@ -5674,17 +5035,14 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "PenFed Foundation",
-      "es": ""
-    },
+    "name": "PenFed Foundation",
     "phone": "800-558-9224",
     "subcategories": [],
     "url": "https://penfedfoundation.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Headquarters outside Lane County",
@@ -5698,19 +5056,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Pink Fund",
-      "es": ""
-    },
+    "name": "Pink Fund",
     "phone": "877-234-7465",
     "subcategories": [
       "Financial Assistance"
     ],
     "url": "https://www.pinkfund.org/get-help/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3579 Franklin Boulevard Eugene, 97403",
@@ -5724,19 +5079,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Wednesday, Friday 9:30 a.m. to 6 p.m. and Thurday 10:30 a.m. to 6 p.m.; Saturday 8:30 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.045023,
     "longitude": -123.043031,
-    "name": {
-      "en": "Planned Parenthood of Southwestern OR - Eugene",
-      "es": ""
-    },
+    "name": "Planned Parenthood of Southwestern OR - Eugene",
     "phone": "541-344-9411",
     "subcategories": [
       "Reproductive Health / Birth Control"
     ],
     "url": "https://www.plannedparenthood.org/planned-parenthood-southwestern-oregon/patient-resources",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "793 N Danebo, Eugene, 97402",
@@ -5750,19 +5102,16 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Wednesday, Friday 9:30 a.m. to 6 p.m. and Thurday 10:30 a.m. to 6 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.069324,
     "longitude": -123.179877,
-    "name": {
-      "en": "Planned Parenthood West Eugene Health Center",
-      "es": ""
-    },
+    "name": "Planned Parenthood West Eugene Health Center",
     "phone": "541-344-9411",
     "subcategories": [
       "Reproductive Health / Birth Control"
     ],
     "url": "https://www.plannedparenthood.org/health-center/oregon/eugene/97402/west-eugene-health-center-3069-91380",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Eugene Mission, 1542 W 1st Ave, Eugene, 97402",
@@ -5776,19 +5125,16 @@
     },
     "email": "",
     "hours": "See description for times",
-    "languages": "",
+    "languages": false,
     "latitude": 44.058375,
     "longitude": -123.118736,
-    "name": {
-      "en": "Pro-Bone-O",
-      "es": ""
-    },
+    "name": "Pro-Bone-O",
     "phone": "541-607-8089 (Message phone, we will return your call)",
     "subcategories": [
       "Pet Care"
     ],
     "url": "http://proboneo.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1200 N Terry, Eugene, 97402 (behind Prairie Mountain School)",
@@ -5802,19 +5148,16 @@
     },
     "email": "",
     "hours": "Tuesdays and Fridays from 11 a.m. to 3 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.071306,
     "longitude": -123.192455,
-    "name": {
-      "en": "Produce Plus - Bethel Farm",
-      "es": ""
-    },
+    "name": "Produce Plus - Bethel Farm",
     "phone": "541-343-2822",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "https://foodforlanecounty.org/get-help/trillium-produce-plus/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1525 Echo Hollow Road, Eugene, 97402",
@@ -5828,19 +5171,16 @@
     },
     "email": "",
     "hours": "Tuesdays after 11 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.078839,
     "longitude": -123.168285,
-    "name": {
-      "en": "Produce Plus - Bethel’s Cascade Middle School",
-      "es": ""
-    },
+    "name": "Produce Plus - Bethel’s Cascade Middle School",
     "phone": "541-343-2822",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "http://blogs.bethel.k12.or.us/thebethelfarm/produce-plus-free-market/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1685 W 13th Avenue, Eugene, 97402",
@@ -5854,19 +5194,16 @@
     },
     "email": "",
     "hours": "First and third Tuesday, 3 to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.045953,
     "longitude": -123.11965,
-    "name": {
-      "en": "Produce Plus - Unitarian Universalist Church",
-      "es": ""
-    },
+    "name": "Produce Plus - Unitarian Universalist Church",
     "phone": "541-343-2822",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "https://uueugene.org/outreach/food/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Locations throughout Lane County",
@@ -5880,17 +5217,14 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Project Safe Place",
-      "es": ""
-    },
+    "name": "Project Safe Place",
     "phone": "To use TXT 4 HELP, text the word “safe” and your current location (city/state/zip) to 4HELP (44357)",
     "subcategories": [],
     "url": "https://www.nationalsafeplace.org/find-a-safe-place",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -5905,20 +5239,17 @@
     },
     "email": "",
     "hours": "Monday to Thursday 1 to 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Public Benefits Hotline",
-      "es": ""
-    },
+    "name": "Public Benefits Hotline",
     "phone": "800-520-5292",
     "subcategories": [
       "Know Your Rights",
       "Referral and Information Services"
     ],
     "url": "https://oregonlawhelp.org/resource/public-benefits-information-hotline",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "6th and Monroe behind market",
@@ -5932,19 +5263,16 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 44.05325,
     "longitude": -123.105993,
-    "name": {
-      "en": "Red Apple Bathroom",
-      "es": ""
-    },
+    "name": "Red Apple Bathroom",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1720 W 25th Ave, Eugene, 97405",
@@ -5958,19 +5286,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 9 a.m. to 4 p.m.; Friday 8:30 a.m.  to 12:30 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.031613,
     "longitude": -123.12047,
-    "name": {
-      "en": "Relief Nursery - Eugene",
-      "es": ""
-    },
+    "name": "Relief Nursery - Eugene",
     "phone": "541-343-9706",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "http://reliefnursery.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "850 S 42nd St, Springfield, 97478",
@@ -5984,19 +5309,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 9 a.m. to 4 p.m.; Friday 8:30 a.m.  to 12:30 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.037193,
     "longitude": -122.964438,
-    "name": {
-      "en": "Relief Nursery - Springfield",
-      "es": ""
-    },
+    "name": "Relief Nursery - Springfield",
     "phone": "541-485-0007",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "http://reliefnursery.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "3333 Riverbend Dr, Springfield, 97477",
@@ -6010,19 +5332,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.081296,
     "longitude": -123.028743,
-    "name": {
-      "en": "Sacred Heart - Pregnancy and Parenting Education",
-      "es": ""
-    },
+    "name": "Sacred Heart - Pregnancy and Parenting Education",
     "phone": "541-222-7074",
     "subcategories": [
       "Family Care Services"
     ],
     "url": "www.peacehealth.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "640 W 7th Ave, Eugene, 97402",
@@ -6037,20 +5356,17 @@
     },
     "email": "",
     "hours": "Monday to Thursday 8:30 a.m. to 3:25 p.m. (closed 11:55 a.m. to 1 p.m., closed Tuesday 11 a.m. to 2 p.m.) Friday 8:30 a.m. to 12:25 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.051915,
     "longitude": -123.104777,
-    "name": {
-      "en": "Salvation Army",
-      "es": ""
-    },
+    "name": "Salvation Army",
     "phone": "541-343-3328",
     "subcategories": [
       "Utility Assistance",
       "Food Boxes / Pantries"
     ],
     "url": "https://eugene.salvationarmy.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Headquarters outside Lane County",
@@ -6064,19 +5380,16 @@
     },
     "email": "",
     "hours": "Annual grant applications",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Samfund Grants for Cancer Survivors",
-      "es": ""
-    },
+    "name": "Samfund Grants for Cancer Survivors",
     "phone": "617-938-3484",
     "subcategories": [
       "Financial Assistance"
     ],
     "url": "http://www.thesamfund.org/get-help/grants/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "591 W 19th Ave, Eugene, 97401",
@@ -6090,19 +5403,16 @@
     },
     "email": "",
     "hours": "Tuesday, Wednesday, Thursday 9 a.m. to 4 p.m., drop-in center hours",
-    "languages": "",
+    "languages": false,
     "latitude": 44.039164,
     "longitude": -123.103225,
-    "name": {
-      "en": "SASS - Sexual Assault Support Services",
-      "es": ""
-    },
+    "name": "SASS - Sexual Assault Support Services",
     "phone": "541-343-7277",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "http://sass-lane.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Churchill High, 1850 Bailey Hill, Eugene, 97405",
@@ -6116,19 +5426,16 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 44.039554,
     "longitude": -123.153491,
-    "name": {
-      "en": "School Health Centers, Eugene School District",
-      "es": ""
-    },
+    "name": "School Health Centers, Eugene School District",
     "phone": "541-790-5227",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.4j.lane.edu/instruction/studentservices/health/healthcare-providers/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "North Eugene High, 200 Silver Lane, Eugene, 97404",
@@ -6142,19 +5449,16 @@
     },
     "email": "",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 44.095192,
     "longitude": -123.133918,
-    "name": {
-      "en": "School Health Centers, Eugene School District",
-      "es": ""
-    },
+    "name": "School Health Centers, Eugene School District",
     "phone": "541-790-4445.",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://www.4j.lane.edu/instruction/studentservices/health/healthcare-providers/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1015 Willamette St, Eugene, 97401",
@@ -6170,20 +5474,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 4 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048603,
     "longitude": -123.094381,
-    "name": {
-      "en": "Senior & Disability Services",
-      "es": ""
-    },
+    "name": "Senior & Disability Services",
     "phone": "541-682-3353",
     "subcategories": [
       "Referral and Information Services",
       "Oregon Health Plan Sign Up"
     ],
     "url": "https://www.sdslane.org/1093/Senior-Disability-Services",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "37 N 6th St, Cottage Grove, 97424",
@@ -6197,17 +5498,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4:45 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.797866,
     "longitude": -123.064283,
-    "name": {
-      "en": "Senior & Disability Services - Cottage Grove",
-      "es": ""
-    },
+    "name": "Senior & Disability Services - Cottage Grove",
     "phone": "541-682-7800",
     "subcategories": [],
     "url": "http://www.sdslane.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Campbell Community Center, 155 High St, Eugene, 97401",
@@ -6221,20 +5519,17 @@
     },
     "email": "",
     "hours": "Monday 8 a.m. to 7 p.m., Tuesday to Friday 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.058112,
     "longitude": -123.089586,
-    "name": {
-      "en": "Senior Law Center",
-      "es": ""
-    },
+    "name": "Senior Law Center",
     "phone": "541-682-5318",
     "subcategories": [
       "Legal Services",
       "Know Your Rights"
     ],
     "url": "https://oregonlawcenter.org/lane-county-senior-service-program/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -6249,20 +5544,17 @@
     },
     "email": "",
     "hours": "Monday 8 a.m. to 7 p.m., Tuesday to Friday 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Senior Law Center",
-      "es": ""
-    },
+    "name": "Senior Law Center",
     "phone": "541-485-1017, ext 131",
     "subcategories": [
       "Legal Services",
       "Know Your Rights"
     ],
     "url": "https://oregonlawcenter.org/lane-county-senior-service-program/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -6277,20 +5569,17 @@
     },
     "email": "",
     "hours": "Monday 8 a.m. to 7 p.m., Tuesday to Friday 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Senior Law Center",
-      "es": ""
-    },
+    "name": "Senior Law Center",
     "phone": "541-485-1017 ext. 131",
     "subcategories": [
       "Legal Services",
       "Know Your Rights"
     ],
     "url": "https://oregonlawcenter.org/lane-county-senior-service-program/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1135 Olive St, Eugene, 97402",
@@ -6304,19 +5593,16 @@
     },
     "email": "",
     "hours": "Monday to Friday 10:30 a.m. to noon",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.047186,
     "longitude": -123.096297,
-    "name": {
-      "en": "Senior Meals - Eugene - Olive Plaza",
-      "es": ""
-    },
+    "name": "Senior Meals - Eugene - Olive Plaza",
     "phone": "541-342-3515",
     "subcategories": [
       "Meals"
     ],
     "url": "laneseniormeals.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "4211 West 11th Ave, Eugene, 97402",
@@ -6330,19 +5616,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, appointments as scheduled within guidelines",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048608,
     "longitude": -123.168714,
-    "name": {
-      "en": "Serenity Lane",
-      "es": ""
-    },
+    "name": "Serenity Lane",
     "phone": "1‑800‑543‑9905 / (541) 485-1577",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://serenitylane.org/location/eugene-or/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "91150 Coburg Industrial Way, Coburg, 97408",
@@ -6356,19 +5639,16 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.142395,
     "longitude": -123.060767,
-    "name": {
-      "en": "Serenity Lane",
-      "es": ""
-    },
+    "name": "Serenity Lane",
     "phone": "541-687-1110",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "https://serenitylane.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "591 West 19th Ave, Eugene, 97401",
@@ -6382,19 +5662,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.039164,
     "longitude": -123.103225,
-    "name": {
-      "en": "Sexual Assault Support Services (SASS)",
-      "es": ""
-    },
+    "name": "Sexual Assault Support Services (SASS)",
     "phone": "1-800-788-4727 or 541-343-7277",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "http://sass-lane.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Check website for location this month",
@@ -6409,20 +5686,17 @@
     },
     "email": "sharefair@neighborhoodanarchists.org",
     "hours": "Last Tuesday of every month, 2 to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Share Fair",
-      "es": ""
-    },
+    "name": "Share Fair",
     "phone": "Email available",
     "subcategories": [
       "Meals",
       "Hygiene Items"
     ],
     "url": "https://neighborhoodanarchists.org/sharefair/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1566 Coburg Road, Eugene, 97401",
@@ -6436,19 +5710,16 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Thursday, Friday, Saturday 10 a.m. to 6 p.m.; Tuesday noon to 8 p.m. Closed on Sunday.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.079336,
     "longitude": -123.071565,
-    "name": {
-      "en": "Sheldon Branch, Eugene Public Library",
-      "es": ""
-    },
+    "name": "Sheldon Branch, Eugene Public Library",
     "phone": "541-682-5450",
     "subcategories": [
       "Internet Access & Library Services"
     ],
     "url": "https://www.eugene-or.gov/130/Eugene-Public-Library",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "499 West 4th Avenue, Eugene, 97401",
@@ -6463,13 +5734,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.055985,
     "longitude": -123.102077,
-    "name": {
-      "en": "ShelterCare",
-      "es": ""
-    },
+    "name": "ShelterCare",
     "phone": "541-689-7156",
     "subcategories": [
       "Transitional or Permanent Housing",
@@ -6478,7 +5746,7 @@
       "Family Care Services"
     ],
     "url": "https://www.sheltercare.org/what-we-do/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "499 West 4th Avenue, Eugene, 97401",
@@ -6492,19 +5760,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.055985,
     "longitude": -123.102077,
-    "name": {
-      "en": "ShelterCare",
-      "es": ""
-    },
+    "name": "ShelterCare",
     "phone": "541-689-3785",
     "subcategories": [
       "Rent Assistance"
     ],
     "url": "http://www.sheltercare.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1576 West 12th Street, Florence, 97439",
@@ -6523,13 +5788,10 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 10 a.m. to 3:30 p.m., Friday by appointment",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.977138,
     "longitude": -124.10638,
-    "name": {
-      "en": "Siuslaw Outreach Services",
-      "es": ""
-    },
+    "name": "Siuslaw Outreach Services",
     "phone": "541-997-2816 / Crisis Hotline: 541-997-4444",
     "subcategories": [
       "Overnight / Short Term Shelters",
@@ -6542,7 +5804,7 @@
       "Domestic Violence / Sexual Assault"
     ],
     "url": "https://florencesos.org/services.html",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1345 Birch Avenue, Cottage Grove, 97424",
@@ -6557,13 +5819,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.799033,
     "longitude": -123.073323,
-    "name": {
-      "en": "South Lane Mental Health",
-      "es": ""
-    },
+    "name": "South Lane Mental Health",
     "phone": "541-942-3939",
     "subcategories": [
       "Counseling & Mental Health",
@@ -6571,7 +5830,7 @@
       "Addiction Recovery Services"
     ],
     "url": "https://www.slmh.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "75 S 5th Street, Cottage Grove, 97424",
@@ -6586,20 +5845,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.796581,
     "longitude": -123.065305,
-    "name": {
-      "en": "South Lane Mental Health Recovery Center",
-      "es": ""
-    },
+    "name": "South Lane Mental Health Recovery Center",
     "phone": "541 767 4260",
     "subcategories": [
       "Counseling & Mental Health",
       "Addiction Recovery Services"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1450 Birch Avenue, Cottage Grove, 97424",
@@ -6613,17 +5869,14 @@
     },
     "email": "",
     "hours": "8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.799607,
     "longitude": -123.074483,
-    "name": {
-      "en": "South Lane Wheels",
-      "es": ""
-    },
+    "name": "South Lane Wheels",
     "phone": "541-942-0456",
     "subcategories": [],
     "url": "http://southlanetransit.com/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "338 Hwy 99 N, Eugene, 97402",
@@ -6639,13 +5892,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.064977,
     "longitude": -123.140694,
-    "name": {
-      "en": "Sponsors, Inc. - Re-Entry Resource Center",
-      "es": ""
-    },
+    "name": "Sponsors, Inc. - Re-Entry Resource Center",
     "phone": "541-505-5690",
     "subcategories": [
       "Overnight / Short Term Shelters",
@@ -6654,7 +5904,7 @@
       "Housing Navigation"
     ],
     "url": "sponsorsinc.org/rrc/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "767 East 8th Avenue, Eugene, 97402",
@@ -6670,13 +5920,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 4:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051379,
     "longitude": -123.085546,
-    "name": {
-      "en": "Sponsors, Inc. - Re-Entry Resource Center – Womans Assistance Program",
-      "es": ""
-    },
+    "name": "Sponsors, Inc. - Re-Entry Resource Center – Womans Assistance Program",
     "phone": "541-505-5690",
     "subcategories": [
       "Employment or Job Search",
@@ -6684,7 +5931,7 @@
       "Housing Navigation"
     ],
     "url": "sponsorsinc.org/rrc/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone or website only",
@@ -6698,19 +5945,16 @@
     },
     "email": "admin@spotspayneuter.org",
     "hours": "Provide the requested on a phone message to make your process faster. They return calls Monday to Friday, within 48 hours, but usually sooner.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "SPOT (Stop Pet Overpopulation Today)",
-      "es": ""
-    },
+    "name": "SPOT (Stop Pet Overpopulation Today)",
     "phone": "541-607-4900",
     "subcategories": [
       "Pet Care"
     ],
     "url": "https://www.spotspayneuter.org/apply/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1546 N 12th Street, Springfield, 97477",
@@ -6724,19 +5968,16 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 10 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.05921,
     "longitude": -123.011317,
-    "name": {
-      "en": "Springfield Adventist Community Center",
-      "es": ""
-    },
+    "name": "Springfield Adventist Community Center",
     "phone": "541-746-8263",
     "subcategories": [
       "Clothing"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1546 N 12th Street, Springfield, 97477",
@@ -6750,20 +5991,17 @@
     },
     "email": "",
     "hours": "The first and third Tuesday, 10 a.m. to 1 p.m.; second and fourth Tuesday, 4 to 7 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.05921,
     "longitude": -123.011317,
-    "name": {
-      "en": "Springfield Adventist Community Center",
-      "es": ""
-    },
+    "name": "Springfield Adventist Community Center",
     "phone": "541-746-8263",
     "subcategories": [
       "Food Boxes / Pantries",
       "Meals"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "225 5th Street, Springfield, 97477 (under walkway)",
@@ -6777,20 +6015,17 @@
     },
     "email": "",
     "hours": "Monday to Saturday 10 a.m. to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046896,
     "longitude": -123.020706,
-    "name": {
-      "en": "Springfield Library Syringe Drop-off",
-      "es": ""
-    },
+    "name": "Springfield Library Syringe Drop-off",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal",
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "225 5th Street, Springfield, 97477",
@@ -6804,19 +6039,16 @@
     },
     "email": "",
     "hours": "Monday and Tuesday 10 a.m. to 8 p.m., Wednesday and Thursday 10 a.m. to 6 p.m., Friday and Saturday 10 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046896,
     "longitude": -123.020706,
-    "name": {
-      "en": "Springfield Public Library",
-      "es": ""
-    },
+    "name": "Springfield Public Library",
     "phone": "541-726-3766",
     "subcategories": [
       "Internet Access & Library Services"
     ],
     "url": "wheremindsgrow.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "304 Blair Blvd, Eugene, 97402",
@@ -6830,19 +6062,16 @@
     },
     "email": "",
     "hours": "The first Saturday of every month, 9 to 11 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.05641,
     "longitude": -123.11265,
-    "name": {
-      "en": "St. John Maximovitch Church",
-      "es": ""
-    },
+    "name": "St. John Maximovitch Church",
     "phone": "541-484- 5810",
     "subcategories": [
       "Meals"
     ],
     "url": "http://stjohnthewonderworker.org/our-ministries/first-saturday-neighborhood-breakfast/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "1300 Pearl St, Eugene, 97401",
@@ -6856,19 +6085,16 @@
     },
     "email": "",
     "hours": "The second and fourth Saturday of every month at 9:30 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.045312,
     "longitude": -123.092372,
-    "name": {
-      "en": "St. Mary's Episcopal Breakfast",
-      "es": ""
-    },
+    "name": "St. Mary's Episcopal Breakfast",
     "phone": "541-343-9253",
     "subcategories": [
       "Meals"
     ],
     "url": "http://www.saint-marys.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "450 Highway 99 North, Eugene, 97402",
@@ -6884,13 +6110,10 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 5 p.m.",
-    "languages": "?",
+    "languages": false,
     "latitude": 44.066756,
     "longitude": -123.141788,
-    "name": {
-      "en": "St. Vincent de Paul - Eugene Service Station",
-      "es": ""
-    },
+    "name": "St. Vincent de Paul - Eugene Service Station",
     "phone": "541-461-8688",
     "subcategories": [
       "Bathrooms",
@@ -6905,7 +6128,7 @@
       "Overnight Parking"
     ],
     "url": "https://www.svdp.us/what-we-do/homeless-services/eugene-service-station/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "456 Highway 99 N, Eugene, 97402",
@@ -6921,13 +6144,10 @@
     },
     "email": "",
     "hours": "Monday, Tuesday, Thursday, Friday from 10 a.m. to 4 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.066147,
     "longitude": -123.141877,
-    "name": {
-      "en": "St. Vincent de Paul Social Services",
-      "es": ""
-    },
+    "name": "St. Vincent de Paul Social Services",
     "phone": "541-689-6747",
     "subcategories": [
       "Household Goods",
@@ -6936,7 +6156,7 @@
       "Rent Assistance"
     ],
     "url": "www.svdp.us/get-help/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "456 Highway 99 N, Eugene, 97402",
@@ -6950,19 +6170,16 @@
     },
     "email": "https://www.svdp.us/get-help/im-hungry/",
     "hours": "Tuesday, Thursday, Friday 10 a.m. to 2 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.066147,
     "longitude": -123.141877,
-    "name": {
-      "en": "St. Vincent de Paul Social Services",
-      "es": ""
-    },
+    "name": "St. Vincent de Paul Social Services",
     "phone": "541-689-6747",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "2890 Chad Dr, Eugene, 97408",
@@ -6976,20 +6193,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.089121,
     "longitude": -123.06352,
-    "name": {
-      "en": "St. Vincent de Paul Society",
-      "es": ""
-    },
+    "name": "St. Vincent de Paul Society",
     "phone": "541-687-5820",
     "subcategories": [
       "Transitional or Permanent Housing",
       "Housing Navigation"
     ],
     "url": "svdp.us",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2890 Chad Dr, Eugene, 97408",
@@ -7004,19 +6218,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.089121,
     "longitude": -123.06352,
-    "name": {
-      "en": "St. Vincent de Paul Support Services for Veteran Families",
-      "es": ""
-    },
+    "name": "St. Vincent de Paul Support Services for Veteran Families",
     "phone": "541-743-7107",
     "subcategories": [
       "Housing Navigation"
     ],
     "url": "https://www.svdp.us/what-we-do/affordable-housing/supportive-services-veteran-families/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "On Olive Street, behind Eugene Public Library",
@@ -7030,19 +6241,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.048108,
     "longitude": -123.096457,
-    "name": {
-      "en": "St. Vincent’s Storage Locker",
-      "es": ""
-    },
+    "name": "St. Vincent’s Storage Locker",
     "phone": "541-689-6747",
     "subcategories": [
       "Day Storage"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Check website for locations in Lane County",
@@ -7056,19 +6264,16 @@
     },
     "email": "",
     "hours": "Summers, Monday to Friday",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Summer Food Program by Food for Lane County",
-      "es": ""
-    },
+    "name": "Summer Food Program by Food for Lane County",
     "phone": "541-343-2822",
     "subcategories": [
       "Meals"
     ],
     "url": "https://foodforlanecounty.org/get-help/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "101 East Broadway Suite 200, Eugene, 97401",
@@ -7082,20 +6287,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.050144,
     "longitude": -123.093082,
-    "name": {
-      "en": "Survivors Justice Center",
-      "es": ""
-    },
+    "name": "Survivors Justice Center",
     "phone": "541-485-1017",
     "subcategories": [
       "Know Your Rights",
       "Legal Services"
     ],
     "url": "http://www.lclac.org/sjc/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Visit their website for current drop-box locations:",
@@ -7109,19 +6311,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Syringe Drop-box Sites",
-      "es": ""
-    },
+    "name": "Syringe Drop-box Sites",
     "phone": "541-342-5088",
     "subcategories": [
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3995 Marcola Rd, Springfield, 97477",
@@ -7135,17 +6334,14 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.070134,
     "longitude": -122.967482,
-    "name": {
-      "en": "The Child Center Crisis Response Program",
-      "es": ""
-    },
+    "name": "The Child Center Crisis Response Program",
     "phone": "541-726-1465",
     "subcategories": [],
     "url": "https://www.thechildcenter.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2537 Game Farm Rd, Springfield, 97477",
@@ -7159,19 +6355,16 @@
     },
     "email": "",
     "hours": "First and third Saturday, 9 a.m. to noon",
-    "languages": "",
+    "languages": false,
     "latitude": 44.071628,
     "longitude": -123.03282,
-    "name": {
-      "en": "The Shepherd’s Table at St. John’s",
-      "es": ""
-    },
+    "name": "The Shepherd’s Table at St. John’s",
     "phone": "541-746-3322",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "332 58th Street, Springfield, 97478",
@@ -7185,19 +6378,16 @@
     },
     "email": "",
     "hours": "Third Saturday of every month 9 a.m. to 11 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.049145,
     "longitude": -122.929044,
-    "name": {
-      "en": "Thurston Food Pantry inside Waypoint Community Church",
-      "es": ""
-    },
+    "name": "Thurston Food Pantry inside Waypoint Community Church",
     "phone": "Online and in-person only",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "https://www.ccslc.org/food-and-emergency-help",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -7212,19 +6402,16 @@
     },
     "email": "",
     "hours": "Available every day, beginning 7:00 a.m. and through the day to past midnight, closing at 1:00 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Trans Lifeline",
-      "es": ""
-    },
+    "name": "Trans Lifeline",
     "phone": "877-565-8860",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.translifeline.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -7239,19 +6426,16 @@
     },
     "email": "info@transponder.community",
     "hours": "",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Trans*Ponder",
-      "es": ""
-    },
+    "name": "Trans*Ponder",
     "phone": "508-443-6337",
     "subcategories": [
       "Referral and Information Services"
     ],
     "url": "www.transponder.community",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -7266,19 +6450,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Trevor Lifeline",
-      "es": ""
-    },
+    "name": "Trevor Lifeline",
     "phone": "1-866-488-7386",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.thetrevorproject.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "20280 Blachly Grange Road, Blachly, 97412",
@@ -7293,20 +6474,17 @@
     },
     "email": "",
     "hours": "Third Thursday of every month, 10 a.m. to 2 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.196057,
     "longitude": -123.546995,
-    "name": {
-      "en": "Triangle Food Box",
-      "es": ""
-    },
+    "name": "Triangle Food Box",
     "phone": "541 925 3254",
     "subcategories": [
       "Food Boxes / Pantries",
       "Household Goods"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "501 Kincaid, Eugene, 97403",
@@ -7320,19 +6498,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 6 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.048627,
     "longitude": -123.08084,
-    "name": {
-      "en": "University of Oregon Knight Library",
-      "es": ""
-    },
+    "name": "University of Oregon Knight Library",
     "phone": "541-346-3053",
     "subcategories": [
       "Internet Access & Library Services"
     ],
     "url": "https://library.uoregon.edu/knight-library",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "37895 Row River Rd, Dorena, 97434",
@@ -7346,19 +6521,16 @@
     },
     "email": "",
     "hours": "Third Friday of every month, 4:00 to 5:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 43.699075,
     "longitude": -122.846622,
-    "name": {
-      "en": "Up River Food Pantry",
-      "es": ""
-    },
+    "name": "Up River Food Pantry",
     "phone": "541 343 2822",
     "subcategories": [
       "Food Boxes / Pantries"
     ],
     "url": "",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "25133 E Broadway, Veneta, 97487",
@@ -7373,20 +6545,17 @@
     },
     "email": "",
     "hours": "Sunday 5:00 to 6:30 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051633,
     "longitude": -123.351575,
-    "name": {
-      "en": "Valley United Methodist Church",
-      "es": ""
-    },
+    "name": "Valley United Methodist Church",
     "phone": "541-935-1614",
     "subcategories": [
       "Meals",
       "Overnight / Short Term Shelters"
     ],
     "url": "www.valleychurchveneta.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -7402,20 +6571,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Veterans Crisis Hotline",
-      "es": ""
-    },
+    "name": "Veterans Crisis Hotline",
     "phone": "800-273-8255, press 1",
     "subcategories": [
       "Counseling & Mental Health",
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -7430,19 +6596,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Veterans Homeless Services Hotline",
-      "es": ""
-    },
+    "name": "Veterans Homeless Services Hotline",
     "phone": "877-424-3838",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "2885 Chad Dr, Eugene, 97408",
@@ -7456,19 +6619,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.090656,
     "longitude": -123.06469,
-    "name": {
-      "en": "Vocational Rehabilitation Office - Eugene",
-      "es": ""
-    },
+    "name": "Vocational Rehabilitation Office - Eugene",
     "phone": "541-686-7722",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "https://www.oregon.gov/dhs/EMPLOYMENT/VR/Pages/Locator-Schools-Families.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "101 30th St, Springfield, 97478",
@@ -7482,19 +6642,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046669,
     "longitude": -122.984605,
-    "name": {
-      "en": "Vocational Rehabilitation Services (OVRS) - Springfield",
-      "es": ""
-    },
+    "name": "Vocational Rehabilitation Services (OVRS) - Springfield",
     "phone": "541-726-3525",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "https://www.oregon.gov/dhs/employment/VR/Pages/Index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2260 Marcola Rd, Springfield, 97477",
@@ -7508,19 +6665,16 @@
     },
     "email": "",
     "hours": "Monday, Wednesday, Thursday 9 a.m. to 5 p.m. (closed noon to 1:20 p.m.) Tuesday 1:30 p.m. – 8:30 p.m. (closed 5 to 5:30 p.m.)",
-    "languages": "",
+    "languages": false,
     "latitude": 44.0647,
     "longitude": -122.994708,
-    "name": {
-      "en": "Volunteers in Medicine",
-      "es": ""
-    },
+    "name": "Volunteers in Medicine",
     "phone": "541- 685-1800",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "https://vim-clinic.org/patients/services-eugene/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Between Washington St and Jefferson St at 1st Ave (near skatepark bathrooms)",
@@ -7534,20 +6688,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.058099,
     "longitude": -123.103267,
-    "name": {
-      "en": "Washington-Jefferson Park Syringe Drop-off",
-      "es": ""
-    },
+    "name": "Washington-Jefferson Park Syringe Drop-off",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal",
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "350 E 11th Ave, Eugene, 97401",
@@ -7561,19 +6712,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 9 a.m. to 6 p.m. (closed Thursday 11:30 a.m. to 2:30 p.m.)",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047504,
     "longitude": -123.089743,
-    "name": {
-      "en": "White Bird - Chrysalis Behavioral Health Outpatient Services",
-      "es": ""
-    },
+    "name": "White Bird - Chrysalis Behavioral Health Outpatient Services",
     "phone": "541-683-1641",
     "subcategories": [
       "Addiction Recovery Services"
     ],
     "url": "http://whitebirdclinic.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "350 E 11th Ave, Eugene, 97401",
@@ -7587,19 +6735,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday, 9 a.m. to 6 p.m. (closed Thursday 11:30 a.m. to 2:30 p.m.)",
-    "languages": "",
+    "languages": false,
     "latitude": 44.047504,
     "longitude": -123.089743,
-    "name": {
-      "en": "White Bird - Chrysalis Behavioral Health Outpatient Services",
-      "es": ""
-    },
+    "name": "White Bird - Chrysalis Behavioral Health Outpatient Services",
     "phone": "541-683-1641",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "http://whitebirdclinic.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1415 Pearl St, Eugene, 97401",
@@ -7613,19 +6758,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.044206,
     "longitude": -123.091629,
-    "name": {
-      "en": "White Bird - Community Dental Clinic",
-      "es": ""
-    },
+    "name": "White Bird - Community Dental Clinic",
     "phone": "541-344-8302",
     "subcategories": [
       "Dental"
     ],
     "url": "whitebirdclinic.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "341 E 12th Ave, Eugene, 97401",
@@ -7640,20 +6782,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046823,
     "longitude": -123.089753,
-    "name": {
-      "en": "White Bird - Counseling Program",
-      "es": ""
-    },
+    "name": "White Bird - Counseling Program",
     "phone": "541-342-8255",
     "subcategories": [
       "Family Care Services",
       "Counseling & Mental Health"
     ],
     "url": "whitebirdclinic.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "341 E 12th Ave, Eugene, 97401",
@@ -7669,13 +6808,10 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 10 p.m.",
-    "languages": "some",
+    "languages": false,
     "latitude": 44.046823,
     "longitude": -123.089753,
-    "name": {
-      "en": "White Bird - Front Rooms Resource Center",
-      "es": ""
-    },
+    "name": "White Bird - Front Rooms Resource Center",
     "phone": "541-342-8255",
     "subcategories": [
       "Bathrooms",
@@ -7687,7 +6823,7 @@
       "Referral and Information Services"
     ],
     "url": "https://whitebirdclinic.org/front-rooms",
-    "wheelchair": "?"
+    "wheelchair": false
   },
   {
     "address": "1400 Mill St, Eugene, 97401",
@@ -7701,19 +6837,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 6 p.m. (closed some Mondays 12:30 to 2:30 p.m.)",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.044211,
     "longitude": -123.089142,
-    "name": {
-      "en": "White Bird - Medical Clinic",
-      "es": ""
-    },
+    "name": "White Bird - Medical Clinic",
     "phone": "541-484-4800",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms"
     ],
     "url": "whitebirdclinic.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "323 E 12th Ave, Eugene, 97401",
@@ -7727,19 +6860,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday noon to 2 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046803,
     "longitude": -123.089934,
-    "name": {
-      "en": "White Bird - Sharing Healthcare Options Program",
-      "es": ""
-    },
+    "name": "White Bird - Sharing Healthcare Options Program",
     "phone": "541-342-1295",
     "subcategories": [
       "Oregon Health Plan Sign Up"
     ],
     "url": "www.healthcare.gov.",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -7753,19 +6883,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "White Bird 24/7 Crisis Line",
-      "es": ""
-    },
+    "name": "White Bird 24/7 Crisis Line",
     "phone": "541-687-4000, 1-800-422-7558",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "990 W 7th Ave, Eugene, 97402",
@@ -7779,19 +6906,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.051928,
     "longitude": -123.109943,
-    "name": {
-      "en": "White Bird 24/7 Crisis Services",
-      "es": ""
-    },
+    "name": "White Bird 24/7 Crisis Services",
     "phone": "541-687-4000, 1-800-422-7558",
     "subcategories": [
       "Counseling & Mental Health"
     ],
     "url": "https://whitebirdclinic.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "323 E 12th Ave, Eugene, 97401",
@@ -7805,19 +6929,16 @@
     },
     "email": "",
     "hours": "Monday to Thursday noon to 2 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046803,
     "longitude": -123.089934,
-    "name": {
-      "en": "White Bird: Homeless",
-      "es": ""
-    },
+    "name": "White Bird: Homeless",
     "phone": "541-342-1295",
     "subcategories": [
       "ID / Birth Certificate Replacement"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "341 E 12th Ave, Eugene, 97401",
@@ -7831,20 +6952,17 @@
     },
     "email": "",
     "hours": "Every day, 8 a.m. to 10 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.046823,
     "longitude": -123.089753,
-    "name": {
-      "en": "Whitebird Syringe Drop-off",
-      "es": ""
-    },
+    "name": "Whitebird Syringe Drop-off",
     "phone": "541-342-5088",
     "subcategories": [
       "Needle Exchange / Disposal",
       "HIV / AIDS"
     ],
     "url": "https://hivalliance.org/prevent/syringe-services/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "195 W 12th, Eugene, 97401 (1st floor)",
@@ -7858,13 +6976,10 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 12 p.m., 1 p.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046841,
     "longitude": -123.09775,
-    "name": {
-      "en": "Willamette Family Health Clinic",
-      "es": ""
-    },
+    "name": "Willamette Family Health Clinic",
     "phone": "541-762-4325",
     "subcategories": [
       "Medical Clinics / Urgent Care / Emergency Rooms",
@@ -7872,7 +6987,7 @@
       "Oregon Health Plan Sign Up"
     ],
     "url": "https://wfts.org/health-clinic.htm",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "195 W 12th, Eugene, 97401 (2nd floor)",
@@ -7886,20 +7001,17 @@
     },
     "email": "",
     "hours": "Monday to Thursday 8 a.m. to 5 p.m., Friday 8 a.m. to 4:30 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.046841,
     "longitude": -123.09775,
-    "name": {
-      "en": "Willamette Family Inc. - Rapid Access Center",
-      "es": ""
-    },
+    "name": "Willamette Family Inc. - Rapid Access Center",
     "phone": "541-762-4300",
     "subcategories": [
       "Addiction Recovery Services",
       "Counseling & Mental Health"
     ],
     "url": "https://wfts.org/rac.htm",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1577 Pearl St, 2nd Floor, Eugene, 97401",
@@ -7913,19 +7025,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 5 p.m.; 24-hour crisis hotline",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.042411,
     "longitude": -123.091488,
-    "name": {
-      "en": "Womenspace",
-      "es": ""
-    },
+    "name": "Womenspace",
     "phone": "541-485-6513 (24 hour crisis line)",
     "subcategories": [
       "Overnight / Short Term Shelters"
     ],
     "url": "https://www.womenspaceinc.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "1577 Pearl St, 2nd Floor, Eugene, 97401",
@@ -7940,20 +7049,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 9 a.m. to 4:30 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.042411,
     "longitude": -123.091488,
-    "name": {
-      "en": "Womenspace - Domestic Violence Advocacy Center",
-      "es": ""
-    },
+    "name": "Womenspace - Domestic Violence Advocacy Center",
     "phone": "541-485-8232",
     "subcategories": [
       "Domestic Violence / Sexual Assault",
       "Counseling & Mental Health"
     ],
     "url": "https://www.womenspaceinc.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -7968,20 +7074,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Womenspace 24-hr. Hotline",
-      "es": ""
-    },
+    "name": "Womenspace 24-hr. Hotline",
     "phone": "541-485-6513",
     "subcategories": [
       "Crisis Lines / Hotlines",
       "Domestic Violence / Sexual Assault"
     ],
     "url": "https://www.womenspaceinc.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "3180 Hwy 101 N, Florence, 97439",
@@ -7995,19 +7098,16 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to noon, 1 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 43.994195,
     "longitude": -124.102912,
-    "name": {
-      "en": "WorkSource Lane - Florence Office",
-      "es": ""
-    },
+    "name": "WorkSource Lane - Florence Office",
     "phone": "541-997-1913",
     "subcategories": [
       "Employment or Job Search"
     ],
     "url": "http://worksourceoregon.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "2510 Oakmont Way Eugene, 97401",
@@ -8022,20 +7122,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8 a.m. to 5 p.m.",
-    "languages": "y",
+    "languages": true,
     "latitude": 44.064197,
     "longitude": -123.075025,
-    "name": {
-      "en": "WorkSource Lane County",
-      "es": ""
-    },
+    "name": "WorkSource Lane County",
     "phone": "541-686-7601",
     "subcategories": [
       "Employment or Job Search",
       "Internet Access & Library Services"
     ],
     "url": "http://worksourceoregon.org/",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "965 Oak Alley, Eugene, 97401",
@@ -8049,17 +7146,14 @@
     },
     "email": "",
     "hours": "Monday to Friday, 3 to 6 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 44.049156,
     "longitude": -123.094028,
-    "name": {
-      "en": "Youth ERA",
-      "es": ""
-    },
+    "name": "Youth ERA",
     "phone": "971.334.9295",
     "subcategories": [],
     "url": "https://www.youthera.org/eugene-drop",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -8074,18 +7168,15 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Youthline",
-      "es": ""
-    },
+    "name": "Youthline",
     "phone": "877-968-8491",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://oregonyouthline.org/",
-    "wheelchair": ""
+    "wheelchair": false
   }
 ]

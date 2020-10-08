@@ -11,20 +11,17 @@
     },
     "email": "help@211info.org",
     "hours": "Monday to Friday, 8 a.m. to 6 p.m., texting available Monday to Friday 9 to 5",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "211 Info",
-      "es": ""
-    },
+    "name": "211 Info",
     "phone": 211,
     "subcategories": [
       "Referral and Information Services",
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.211info.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Call",
@@ -38,19 +35,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": 911,
-      "es": ""
-    },
+    "name": 911,
     "phone": 911,
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.911.gov/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -64,19 +58,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Alzheimer’s Association Helpline",
-      "es": ""
-    },
+    "name": "Alzheimer’s Association Helpline",
     "phone": "800-272-3900",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.alz.org/help-support/resources/helpline",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Located outside Lane County",
@@ -91,20 +82,17 @@
     },
     "email": "",
     "hours": "Monday to Friday, 8:30 a.m. to 5 p.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Boys and Girls Aid",
-      "es": ""
-    },
+    "name": "Boys and Girls Aid",
     "phone": "503-222-9661",
     "subcategories": [
       "Reproductive Health / Birth Control",
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.boysandgirlsaid.org/options",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -120,20 +108,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "CAHOOTS - Eugene only",
-      "es": ""
-    },
+    "name": "CAHOOTS - Eugene only",
     "phone": "541-682-5111",
     "subcategories": [
       "Counseling & Mental Health",
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -149,20 +134,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "CAHOOTS - Springfield only",
-      "es": ""
-    },
+    "name": "CAHOOTS - Springfield only",
     "phone": "541-726-3714",
     "subcategories": [
       "Counseling & Mental Health",
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -176,19 +158,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Child Abuse: National Child Abuse Hotline",
-      "es": ""
-    },
+    "name": "Child Abuse: National Child Abuse Hotline",
     "phone": "1-800-422-4453",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -202,19 +181,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Eugene Police non-emergency line",
-      "es": ""
-    },
+    "name": "Eugene Police non-emergency line",
     "phone": "541 682-5111",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -228,19 +204,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Lane County Police non-emergency line",
-      "es": ""
-    },
+    "name": "Lane County Police non-emergency line",
     "phone": "541-682-3729",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -254,19 +227,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "y",
+    "languages": true,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Lines for Life - Alcohol & Drug Helpline",
-      "es": ""
-    },
+    "name": "Lines for Life - Alcohol & Drug Helpline",
     "phone": "1-800-923-4357",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.linesforlife.org/get-help-now/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -281,20 +251,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Looking Glass Crisis Response Line",
-      "es": ""
-    },
+    "name": "Looking Glass Crisis Response Line",
     "phone": "1-888-989-9990",
     "subcategories": [
       "Crisis Lines / Hotlines",
       "Counseling & Mental Health"
     ],
     "url": "https://www.lookingglass.us/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -309,19 +276,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Military Helpline",
-      "es": ""
-    },
+    "name": "Military Helpline",
     "phone": "888-457-4838",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.oregon.gov/OHA/PH/PHD/Pages/Contact-Us.aspx",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -335,19 +299,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "National Child Abuse Hotline",
-      "es": ""
-    },
+    "name": "National Child Abuse Hotline",
     "phone": "1-800-422-4453",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.childhelp.org",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "Phone only",
@@ -362,20 +323,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "National Suicide Prevention Lifeline",
-      "es": ""
-    },
+    "name": "National Suicide Prevention Lifeline",
     "phone": "1-800-273-8255",
     "subcategories": [
       "Crisis Lines / Hotlines",
       "Counseling & Mental Health"
     ],
     "url": "https://suicidepreventionlifeline.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -389,19 +347,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Oregon Abuse Hotline for Children & Adults",
-      "es": ""
-    },
+    "name": "Oregon Abuse Hotline for Children & Adults",
     "phone": "1-855-503-7233",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.oregon.gov/DHS/abuse/Pages/index.aspx",
-    "wheelchair": "y"
+    "wheelchair": true
   },
   {
     "address": "591 West 19th Ave, Eugene, 97401",
@@ -415,19 +370,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 44.039164,
     "longitude": -123.103225,
-    "name": {
-      "en": "Sexual Assault Support Services (SASS)",
-      "es": ""
-    },
+    "name": "Sexual Assault Support Services (SASS)",
     "phone": "1-800-788-4727 or 541-343-7277",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "http://sass-lane.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -442,19 +394,16 @@
     },
     "email": "",
     "hours": "Available every day, beginning 7:00 a.m. and through the day to past midnight, closing at 1:00 a.m.",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Trans Lifeline",
-      "es": ""
-    },
+    "name": "Trans Lifeline",
     "phone": "877-565-8860",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.translifeline.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -469,19 +418,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Trevor Lifeline",
-      "es": ""
-    },
+    "name": "Trevor Lifeline",
     "phone": "1-866-488-7386",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://www.thetrevorproject.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -497,20 +443,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Veterans Crisis Hotline",
-      "es": ""
-    },
+    "name": "Veterans Crisis Hotline",
     "phone": "800-273-8255, press 1",
     "subcategories": [
       "Counseling & Mental Health",
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -525,19 +468,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Veterans Homeless Services Hotline",
-      "es": ""
-    },
+    "name": "Veterans Homeless Services Hotline",
     "phone": "877-424-3838",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -551,19 +491,16 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "White Bird 24/7 Crisis Line",
-      "es": ""
-    },
+    "name": "White Bird 24/7 Crisis Line",
     "phone": "541-687-4000, 1-800-422-7558",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -578,20 +515,17 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Womenspace 24-hr. Hotline",
-      "es": ""
-    },
+    "name": "Womenspace 24-hr. Hotline",
     "phone": "541-485-6513",
     "subcategories": [
       "Crisis Lines / Hotlines",
       "Domestic Violence / Sexual Assault"
     ],
     "url": "https://www.womenspaceinc.org/",
-    "wheelchair": ""
+    "wheelchair": false
   },
   {
     "address": "Phone only",
@@ -606,18 +540,15 @@
     },
     "email": "",
     "hours": "All hours, every day",
-    "languages": "",
+    "languages": false,
     "latitude": 0,
     "longitude": 0,
-    "name": {
-      "en": "Youthline",
-      "es": ""
-    },
+    "name": "Youthline",
     "phone": "877-968-8491",
     "subcategories": [
       "Crisis Lines / Hotlines"
     ],
     "url": "https://oregonyouthline.org/",
-    "wheelchair": ""
+    "wheelchair": false
   }
 ]
