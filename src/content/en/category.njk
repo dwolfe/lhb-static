@@ -15,7 +15,7 @@ permalink: "/{{ locale }}/categories/{{ category.name.en | slug }}/"
 <ul class="lhb-providers">
   {% for provider in subcategory.providers %}
   <li class="lhb-provider">
-    <p><strong>{{ provider.name[locale] }}</strong><br>
+    <p><strong>{{ provider.name }}</strong><br>
     {{ provider.address }}</p>
   </li>
   {% endfor %}

@@ -15,19 +15,19 @@ bodyClass: lhb-resource-nav-fixed
   {% set doCheck = false %}
   {% set firstLetter = '0-9' %}
   {% for provider in providers %}
-    {% if provider.name[locale] | first | upper === 'A' %}
+    {% if provider.name | first | upper === 'A' %}
       {% set doCheck = true %}
     {% endif %}
     {% if doCheck %}
-      {% if provider.name[locale] | first | upper !== firstLetter %}
-        {% set firstLetter = provider.name[locale] | first | upper %}
+      {% if provider.name | first | upper !== firstLetter %}
+        {% set firstLetter = provider.name | first | upper %}
   </ul>
   <h3 class="lhb-heading lhb-heading--display-medium lhb-heading--group">{{ firstLetter }}</h3>
   <ul class="lhb-providers">
       {% endif %}
     {% endif %}
     <li class="lhb-provider">
-      <p><strong>{{ provider.name[locale] }}</strong><br>
+      <p><strong>{{ provider.name }}</strong><br>
       {{ provider.address }}</p>
     </li>
   {% endfor %}
