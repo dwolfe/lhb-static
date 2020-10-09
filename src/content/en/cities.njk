@@ -14,10 +14,7 @@ bodyClass: lhb-resource-nav-fixed
   <h3 class="lhb-heading lhb-heading--display-medium lhb-heading--group">{{ city.name }}</h3>
   <ul class="lhb-providers">
     {% for provider in city.providers %}
-    <li class="lhb-provider">
-      <p><strong>{{ provider.name }}</strong><br>
-      {{ provider.address }}</p>
-    </li>
+      {% include "partials/_provider.njk" %}
     {% endfor %}
   </ul>
   {% endfor %}

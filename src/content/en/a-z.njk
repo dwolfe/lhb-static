@@ -26,9 +26,6 @@ bodyClass: lhb-resource-nav-fixed
   <ul class="lhb-providers">
       {% endif %}
     {% endif %}
-    <li class="lhb-provider">
-      <p><strong>{{ provider.name }}</strong><br>
-      {{ provider.address }}</p>
-    </li>
+    {% include "partials/_provider.njk" %}
   {% endfor %}
   </ul>

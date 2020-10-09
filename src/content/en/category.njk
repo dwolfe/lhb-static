@@ -14,10 +14,7 @@ permalink: "/{{ locale }}/categories/{{ category.name.en | slug }}/"
 <h3 class="lhb-heading lhb-heading--group lhb-heading--display-medium">{{ subcategory.name[locale] }}</h3>
 <ul class="lhb-providers">
   {% for provider in subcategory.providers %}
-  <li class="lhb-provider">
-    <p><strong>{{ provider.name }}</strong><br>
-    {{ provider.address }}</p>
-  </li>
+    {% include "partials/_provider.njk" %}
   {% endfor %}
 </ul>
 {% endfor %}
