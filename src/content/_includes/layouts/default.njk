@@ -9,13 +9,13 @@
 </head>
 <body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
 
-  {% include "_header.njk" %}
+  {% include "partials/_header.njk" %}
 
   <main class="lhb-content">
     {{ content | safe }}
   </main>
   
-  {% include "_footer.njk" %}
+  {% include "partials/_footer.njk" %}
 
 </body>
 </html>
