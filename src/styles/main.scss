@@ -513,16 +513,16 @@ body {
 }
 
 .lhb-tabs {
+  align-items: center;
   display: flex;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  position: relative;
-  top: 0.25em;
 }
 
 .lhb-tabs li {
-  margin-right: 1.5em;
+  margin: 0 1.5em 0 0;
+  vertical-align: bottom;
 }
 
 .lhb-tab {
@@ -538,8 +538,10 @@ body {
   text-decoration: none;
 }
 
-.lhb-tabs li:last-child .lhb-tab {
-  margin-right: 0;
+.lhb-tab--search {
+  align-items: center;
+  display: flex;
+  padding: 0;
 }
 
 .lhb-tab.active {

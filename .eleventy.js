@@ -1,11 +1,14 @@
 const md = require('markdown-it')();
 const { minify } = require("terser");
+const pluginSass = require("eleventy-plugin-sass");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/content/images');
 
-  eleventyConfig.addWatchTarget('./src/styles/style.css');
-  eleventyConfig.addPassthroughCopy({ './src/styles': './styles' });
+  eleventyConfig.addPlugin(pluginSass, {
+    watch: './src/styles/main.scss',
+    outputDir: './dist/styles'
+  });
 
   eleventyConfig.addWatchTarget('./src/scripts/*.js');
   eleventyConfig.addPassthroughCopy({ './src/scripts': './scripts' });
