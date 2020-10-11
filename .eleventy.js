@@ -1,4 +1,3 @@
-const md = require('markdown-it')();
 const { minify } = require("terser");
 const pluginSass = require("eleventy-plugin-sass");
 
@@ -8,17 +7,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginSass, {
     watch: './src/styles/main.scss',
     outputDir: './dist/styles'
-  });
-
-  eleventyConfig.addWatchTarget('./src/scripts/*.js');
-  eleventyConfig.addPassthroughCopy({ './src/scripts': './scripts' });
-
-  eleventyConfig.addFilter('markdown', function (value) {
-    if (typeof value === 'string') {
-      return module.render(value);
-    }
-
-    return value;
   });
 
   eleventyConfig.addTransform("htmlmin", require("./src/utils/minify-html.js"));
