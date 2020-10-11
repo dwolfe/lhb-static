@@ -11,9 +11,6 @@ title: Emergency Crisis Lines
 
   <ul class="lhb-providers">
     {%- for provider in crisis -%}
-    <li class="lhb-provider">
-      <p><strong>{{ provider.name[locale] }}</strong><br>
-      {{ provider.address }}</p>
-    </li>
+      {% include "partials/_provider.njk" %}
     {% endfor %}
   </ul>
