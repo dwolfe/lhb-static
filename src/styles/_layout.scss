@@ -1,0 +1,49 @@
+/* Layout
+ * ----------------------------------------------------------------- */
+
+ body, html {
+  overflow-x: hidden;
+  scroll-padding-top: 4.5em;
+}
+
+body {
+  margin: 0;
+  min-width: 340px;
+  padding-top: 4.5em;
+}
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+.lhb-header {
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.lhb-resource-nav-fixed {
+  padding-top: 10.5em;
+}
+
+.lhb-resource-nav-fixed .lhb-resource-nav {
+  left: 0;
+  padding: 1em 1em 0;
+  position: fixed;
+  top: 3.5em;
+  width: 100%;
+  z-index: 25;
+}
+
+@media (min-width: 50em) {
+  .lhb-header,
+  .lhb-content,
+  .lhb-footer {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 50em;
+  }
+}

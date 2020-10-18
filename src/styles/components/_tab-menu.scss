@@ -1,0 +1,43 @@
+.lhb-tab-menu {
+  align-items: baseline;
+  border-bottom: solid var(--color-text-contrast) 0.125em;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.lhb-tabs {
+  align-items: center;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lhb-tabs li {
+  margin: 0 1.5em 0 0;
+  vertical-align: bottom;
+}
+
+.lhb-tab {
+  background-color: transparent;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 0.125em;
+  color: var(--color-text-default);
+  display: inline-block;
+  font-variant-caps: all-small-caps;
+  margin: 0;
+  padding: 0.5em 0;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.lhb-tab--search {
+  align-items: center;
+  display: flex;
+  padding: 0;
+}
+
+.lhb-tab.active {
+  border-bottom: solid var(--color-accent) 0.125em;
+}

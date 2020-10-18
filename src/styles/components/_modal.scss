@@ -1,0 +1,21 @@
+.lhb-modal,
+.lhb-modal .lhb-header,
+.lhb-modal .lhb-heading {
+  background-color: var(--color-bg-contrast);
+  color: var(--color-text-contrast);
+}
+
+.lhb-modal .lhb-header {
+  justify-content: flex-end;
+}
+
+.lhb-modal .lhb-icon--close {
+  fill: var(--color-text-contrast);
+  height: 3em;
+  width: 3em;
+}
+
+.lhb-modal .lhb-resource-nav {
+  background-color: var(--color-bg-contrast);
+  padding-bottom: 0;
+}

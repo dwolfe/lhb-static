@@ -5,7 +5,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/content/images');
 
   eleventyConfig.addPlugin(pluginSass, {
-    watch: './src/styles/main.scss',
     outputDir: './dist/styles'
   });
 

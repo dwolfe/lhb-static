@@ -1,0 +1,36 @@
+/* Variables
+ * (Note: color titles from http://chir.ag/projects/name-that-color)
+ * ----------------------------------------------------------------- */
+
+ :root { /* Primitive colors */
+  --color-white: #ffffff;
+  --color-solitude: #e5f3ff;
+  --color-iron: #c3d2d6;
+  --color-science-blue: #0073d9;
+  --color-black-pearl: #081f33;
+}
+
+:root { /* Applied colors */
+  --color-bg-default: var(--color-white);
+  --color-text-default: var(--color-black-pearl);
+  --color-accent: var(--color-science-blue);
+  --color-bg-alternate: var(--color-solitude);
+  --color-text-alternate: var(--color-black-pearl);
+  --color-bg-contrast: var(--color-black-pearl);
+  --color-text-contrast: var(--color-iron);
+  --color-scrim: rgb(0,0,0,0.5);
+  --color-test: green;
+}
+
+:root { /* Typography */
+  --font-size-base: 16px;
+  --line-height-base: 3msu;
+  --font-family-sans: -apple-system, BlinkMacSystemFont,
+    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+}
+

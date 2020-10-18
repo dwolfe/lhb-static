@@ -1,0 +1,31 @@
+.lhb-button {
+  background-color: transparent;
+  border-color: transparent;
+  border-radius: 0.375em;
+  border-style: solid;
+  border-width: 1px;
+  font-family: var(--font-family-sans);
+  font-size: 1rem;
+  line-height: 1.5;
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+
+.lhb-button--cta {
+  background-color: var(--color-accent);
+  color: var(--color-white);
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.lhb-button--plain {
+  background-color: var(--color-bg-default);
+  border-color: var(--color-text-default);
+  color: var(--color-text-default);
+}
+
+.lhb-button--link {
+  background-color: transparent;
+  border-color: transparent;
+  color: var(--color-text-default);
+}

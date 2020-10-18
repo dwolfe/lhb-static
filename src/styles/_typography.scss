@@ -1,0 +1,106 @@
+/* Typography
+ * ----------------------------------------------------------------- */
+
+/* Prevent adjustments of font size after orientation changes in iOS */
+html {
+  text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--color-bg-default);
+  color: var(--color-text-default);
+  font-family: var(--font-family-sans);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-normal);
+  line-height: 1.375;
+}
+
+.lhb-heading {
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+
+.lhb-heading--display-x-small {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.lhb-heading--display-small {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.lhb-heading--display-medium {
+  font-size: 1.25em;
+  font-weight: 500;
+}
+
+.lhb-heading--display-large {
+  font-size: 1.75em;
+  font-weight: 700;
+  line-height: 1.375;
+}
+
+.lhb-heading--display-x-large {
+  font-size: 2.625em;
+  font-weight: var(--font-weight-black);
+  line-height: 1.15;
+}
+
+/* Variants */
+
+.lhb-heading--branding {
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0.5em 1em;
+}
+
+.lhb-heading--category {
+  margin-bottom: 0.125em;
+  margin-top: 2em;
+}
+
+.lhb-heading--group {
+  border-bottom: solid var(--color-iron) 1px;
+  margin: 2em 0 1.75em;
+}
+
+.lhb-heading--hero {
+  margin: 4rem 0.5rem;
+  text-align: center;
+}
+
+.lhb-heading--hero + .lhb-heading--sub {
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 30em;
+  position: relative;
+  top: -2.75rem;
+  width: 80%;
+}
+
+.lhb-heading--meta {
+  font-size: 0.875em;
+  font-variant-caps: all-small-caps;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.lhb-heading--modal {
+  border-bottom: solid var(--color-iron) 1px;
+  margin-bottom: 0;
+  padding: 0 0 1em;
+  text-align: center;
+}
+
+.lhb-heading--sup {
+  line-height: 1.25;
+  margin-bottom: 0;
+}
+
+.lhb-heading--sup + .lhb-heading {
+  margin-top: 0.125em;
+}

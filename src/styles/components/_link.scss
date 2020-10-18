@@ -1,0 +1,21 @@
+.lhb-link {
+  color: var(--color-accent);
+}
+
+.lhb-link.lhb-category-link {
+  color: var(--color-text-default);
+  text-decoration: none;
+}
+.lhb-link--back {
+  background-image: url(../images/icon-chevron--left.svg);
+  background-position: -4px 50%;
+  background-repeat: no-repeat;
+  color: var(--color-text-default);
+  font-variant-caps: all-small-caps;
+  padding-left: 1.5em;
+  text-decoration: none;
+}
+
+.lhb-link:active {
+  color: var(--color-text-default);
+}
