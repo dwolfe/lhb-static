@@ -1,7 +1,8 @@
 /* Layout
  * ----------------------------------------------------------------- */
 
- body, html {
+body,
+html {
   overflow-x: hidden;
   scroll-padding-top: 4.5em;
 }
@@ -12,7 +13,9 @@ body {
   padding-top: 4.5em;
 }
 
-*, :after, :before {
+*,
+:after,
+:before {
   box-sizing: border-box;
 }
 
