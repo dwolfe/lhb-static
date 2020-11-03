@@ -41,3 +41,7 @@
 .lhb-tab.active {
   border-bottom: solid var(--color-accent) 0.125em;
 }
+
+button.lhb-tab {
+  padding: 0;
+}
