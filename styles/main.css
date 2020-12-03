@@ -478,6 +478,10 @@ button.lhb-tab {
   margin: 1em 0;
 }
 
+.lhb-fpo-image {
+  max-width: 100%;
+}
+
 .lhb-header {
   align-items: center;
   background-color: var(--color-bg-default);
